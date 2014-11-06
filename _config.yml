@@ -1,0 +1,25 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
+title:  Katie Ball
+production_url: http://katieball.me/
+description: "Thoughts, learnings, technology, tutorials, codes, projects and other things by Katie Ball."
+disqus_shortname: roachhd
+#google and gauges analytics
+analytics: UA-47871720-3
+gauges: 545a1241eddd5b4cd300c28b
+author:
+  name: Katie Ball
+  github: roachhd
+  twitter:  mektball
+  email: katie@roachhd.com
+# Use the following plug-ins
+gems:
+# Emoji please!
+  - jemoji
+# Create a sitemap using the official Jekyll sitemap gem
+
+  - jekyll-sitemap

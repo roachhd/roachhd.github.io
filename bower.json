@@ -1,0 +1,22 @@
+{
+  "name": "Katie Ball",
+  "version": "0.0.1",
+  "authors": [
+    "Katie Ball <katie@roachhd.com>"
+  ],
+  "description": "Katie Ball blog, portfolio, projects and games at katieball.me",
+  "license": "MIT",
+  "homepage": "http://katieball.me",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.2",
+    "font-awesome": "~4.0.2"
+  }
+}
