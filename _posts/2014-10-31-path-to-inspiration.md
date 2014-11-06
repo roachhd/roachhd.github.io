@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inspire Me"
+title: "Path To Inspiration"
 category: posts
 ---
 
