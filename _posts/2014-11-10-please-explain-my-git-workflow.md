@@ -5,18 +5,23 @@ category: posts
 --- 
 Git is a versioning suite of tools that enables us to keep track of our projects changes. I will be going over the super basics, of which I may well be wrong. But I'm trying to nail down a firm git workflow, so here goes. 
 
+>Every time I reach a major release I push it to the master branch and remote server for theclient to view.
+That's just a brief explanation of how I want to use git. 
+> - Katie B.
 
 What can Git version, and why should I care?
 Git can version anything that is a plain text file (and more). Versioning is a best way to completely mess up a website and then instantly restore it back to its working glory. It makes it a breeze to deploy completed products and It’s pretty much a standard for any programming job. One of the best things about Git is when you talk about it, you can usually start to see people's ears start to bleed with boredom. It’s truly a magnificent approach to modern development, wrapped in a terminal shell, tasty!
 
 Git does a few really simple, but hugely powerful things, like superman huge! Presenting the superpowers:
 
+```ymal
 - Repository
 - Commit
 - Pull
 - Merge
 - Branch
 - Push
+```
 
 ####OK, Please Explain?
 
@@ -39,29 +44,31 @@ A pull request is when you have a large amount of changes you want to merge back
 A merge just zips the two files together so that you’re back down to just one, by showing you any conflicts and allowing you to fix them.
 
 ######A branch
-A branch is basically you checking out the whole repo and making major changes to it. When you’re done with your huge changes you make a pull request. After approval, you merge it back into the main branch.
+A branch is basically you checking out the whole repo and making major changes to it. When you’re done with your huge changes you make a `pull request`. After approval, you merge it back into the main branch.
 
 ######A push
 A push is when you’ve finished your commits. merges, and pull request, and are ready to send the files out to your deployment. You run a push command and you repo is uploaded to a remote server.
-
-######How do I use Git?
-Git is a tool that requires a bit of a larger team and management layers, but being a small and agile developer, I have still have a need version control. I am going to use Git to version as I had previously explained. I’ll use a sample project to explain.
 
 ---
 
 #####Starting the whole process:
 
-First i will setup the development and production environment (grunt, node, bower, Ruby etc)
+Git is a tool that requires a bit of a larger team and management layers, but being a small and agile developer, I have still have a need version control. I am going to use Git to version as I had previously explained.
 
-When all set, then move to git by following these instructions.
 
-After Git is intialized I follow these simple steps to make a website function properly.
+- First i will setup the development and production environment `grunt` `nodejs` `bower` `Ruby` `etc`
 
-I branch off the master branch and create one called development
+- When all set, then move to git by following these instructions.
 
-I build on the development branch, branching off for major features
+- After Git is intialized I follow these simple steps to make a website function properly.
 
-My _config.json points the uploads to the staging server, which IS the development branch.
+- I branch off the master branch and create one called development
 
-Every time I reach a major release I push it to the master branch and remote server for theclient to view.
-That's just a brief explanation of how I want to use git. 
+- I build on the development branch, branching off for major features
+
+- My `_config.json` points the uploads to the staging server, which IS the development branch.
+
+- Every time I reach a major release I push it to the master branch and remote server for the client to view.
+
+
+That's just a brief explanation of how I use git. ❤️
