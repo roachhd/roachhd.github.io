@@ -1,19 +1,15 @@
----
+T---
 layout: post
 title: "Please Explain? My git Workflow"
 category: posts
 --- 
-Git is a versioning suite of tools that enables us to keep track of our day to day changes. We will be going over the super basics, of which I may well be wrong.
+Git is a versioning suite of tools that enables us to keep track of our projects changes. I will be going over the super basics, of which I may well be wrong. But I'm trying to nail down a firm git workflow, so here goes. 
 
 
-What can Git version, and why should you care?
-Git can version anything that is a plain text file. Versioning is a great way to completely mess up a website, but instantly restore it. It makes it a breeze to deploy completed products as well. It’s also a standard for any programming job, excluding a select few. The best part is, when you talk about it, you become completely unapproachable by women. It’s truly a multifaceted approach to modern living, wrapped in a terminal shell.
+What can Git version, and why should I care?
+Git can version anything that is a plain text file (and more). Versioning is a best way to completely mess up a website and then instantly restore it back to its working glory. It makes it a breeze to deploy completed products and It’s pretty much a standard for any programming job. One of the best things about Git is when you talk about it, you can usually start to see people's ears start to bleed with boredom. It’s truly a magnificent approach to modern development, wrapped in a terminal shell, tasty!
 
-
-What are the main tenants of Git use?
-Git does a few really simple, but powerful things. They have all been given names, so we’ll call them by them.
-
-#####Git has these features: Please Explain?
+Git does a few really simple, but hugely powerful things, like superman huge! Presenting the superpowers:
 
 - Repository
 - Commit
@@ -21,6 +17,8 @@ Git does a few really simple, but powerful things. They have all been given name
 - Merge
 - Branch
 - Push
+
+####OK, Please Explain?
 
 ######What is a repository?
 A repository is a collection of your code, that you’ve created to host your code changes, from commits to pushes. A repository is the key aspect of Git and version controls.
