@@ -5,8 +5,7 @@ category: posts
 --- 
 Git is a versioning suite of tools that enables us to keep track of our projects changes. I will be going over the super basics, of which I may well be wrong. But I'm trying to nail down a firm git workflow, so here goes. 
 
->Every time I reach a major release I push it to the master branch and remote server for theclient to view.
-That's just a brief explanation of how I want to use git. 
+>Every time I reach a major release I push it to the master branch and remote server for the client to view.
 > - Katie B.
 
 What can Git version, and why should I care?
