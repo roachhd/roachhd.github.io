@@ -1,8 +1,7 @@
 ---
-title: ZenHabits: Simplify Your Life
 layout: post
+title: ZenHabits: Simplify Your Life
 category: ZenHabits
-tags: [zenhabits, life]
 ---
 A simple life has a different meaning and a different value for every person. For me, it means eliminating all but the essential, eschewing chaos for peace, and spending your time doing what's important to you.
 > "Simplicity is the peak of civilization." – Jessie Sampter
