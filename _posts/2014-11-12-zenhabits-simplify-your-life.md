@@ -1,10 +1,6 @@
 ---
 title: ZenHabits: Simplify Your Life
-description: 72 ways to simplify your life.
 layout: post
-author: Katie Ball
-share: true
-comments: false
 category: ZenHabits
 tags: [zenhabits, life]
 ---
