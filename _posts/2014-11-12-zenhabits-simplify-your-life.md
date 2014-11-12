@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ZenHabits: Simplify Your Life
+title: ZenHabits To Simplify Your Life
 category: ZenHabits
 ---
 A simple life has a different meaning and a different value for every person. For me, it means eliminating all but the essential, eschewing chaos for peace, and spending your time doing what's important to you.
