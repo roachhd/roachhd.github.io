@@ -21,5 +21,4 @@ gems:
 # Emoji please!
   - jemoji
 # Create a sitemap using the official Jekyll sitemap gem
-
   - jekyll-sitemap
