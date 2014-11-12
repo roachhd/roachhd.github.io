@@ -4,10 +4,8 @@ layout: post
 category: ZenHabits
 tags: [zenhabits, life]
 ---
-> "Simplicity is the peak of civilization." – Jessie Sampter
-
 A simple life has a different meaning and a different value for every person. For me, it means eliminating all but the essential, eschewing chaos for peace, and spending your time doing what's important to you.
-
+> "Simplicity is the peak of civilization." – Jessie Sampter
 **It means getting rid of many of the things you do so you can spend time with people you love and do the things you love. It means getting rid of the clutter so you are left with only that which gives you value.**
 
 However, getting to simplicity isn't always a simple process. It's a journey, not a destination, and it can often be a journey of two steps forward, and one backward.
