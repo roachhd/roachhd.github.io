@@ -5,7 +5,7 @@ description: Prepare to start or break a habit and you'll have better chances of
 tags: [habits, zen, life]
 category: Zen Life
 ---
-Today is the day to preside for a new habit. So for the next month, starting now, you're ready to start your new habit. Lets get set up for maximum chances of success.
+Today is the day to prepare yourself to start a new habit. So for the next month, starting now, you're ready to start your new habit. Lets get set up for maximum chances of success.
 
 One thing I've learned through years of habit changes is that when people fail, it's most often because they didn't prepare and didn't do the things that help them succeed.
 
