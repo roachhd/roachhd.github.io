@@ -1,7 +1,6 @@
-## The Simple Life
 ---
 layout: page
-title: Simple Things
+title: Simple Things in Life.
 ---
 ###### By Katie Ball
 
