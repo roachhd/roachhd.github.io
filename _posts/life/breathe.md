@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: Breathe
-tags: [habits, zen, life]
-category: ZenLife
-share: true
 ---
 
 Breathe.
