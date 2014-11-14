@@ -1,6 +1,6 @@
 _site/*
 _theme_packages/*
-*.drafts.md
+_drafts/*
 
 Thumbs.db
 .DS_Store
