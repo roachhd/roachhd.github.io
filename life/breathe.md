@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Layout
 title: Breathe
 ---
 
