@@ -1,6 +1,47 @@
 Up, Up & Away
 --------------
 
+
+
+This is the base HTML for a general page ie: like the about page.
+
+```html
+---
+layout: layout
+title: "About Katie Ball"
+---
+
+<section class="content about">
+  <h1 class="big thin">Katie Ball</h1>
+
+    <img src="http://www.clker.com/cliparts/J/Q/T/y/5/i/purple-orange-owl-hi.png" class="noclip" style="display: block;margin-left: auto;margin-right: auto;" />
+
+  <p>
+    I work at <a href="https://roachhd.com">Roach Haus</a>. When I'm not
+    doing that, I'm usually <a href="http://roachhd.github.io/Notepad">blogging</a>,
+    hacking on <a href="https://github.com/roachhd">open source</a>,
+    building new products (like <a href="http://github.com/ios7-css-ui.com">iOS7 CSS UI</a>)
+    and learning new things. I'm a rather good at Javascript and CSS (also a wiz with Adobe 
+    Creative Cloud), but kinda know something about ruby, Python and Java too. I also co-created
+    two little people and care for 2 fury kids also. I live happily in Melbourne, Australia and 
+
+    never want to leave!
+  </p>
+
+  <p>
+    I used to have a pretty bad-ass and super bloated resume here,
+    but well, there is so many places to update. So, check this site everything important
+    <a href="http://katieball.me/">
+      KatieBall.me
+    </a>. You can also send me an <a href="mailto:katie@roachhd.com;">email</a> or a tweet
+    at <a href="http://twitter.com/meatball">twitter</a> I ❤ getting tweets!
+  </p>
+</section>
+```
+
+---
+
+
 Up is a clean and beautiful [Bootstrap](http://getbootstrap.com) based layout
 for [Jekyll](https://github.com/mojombo/jekyll).
 
@@ -188,6 +229,5 @@ If you have any issues or suggestions, ping me at the [up project][up].
 [my-blog]: http://carlosbecker.com
 [bower]: http://bower.io
 [grunt]: http://gruntjs.com/
-
 
 
