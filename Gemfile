@@ -6,4 +6,4 @@ gem 'github-pages'
 gem 'rake'
 gem 'rmagick'
 gem 'foreman'
-
+gem 'jemoji'
