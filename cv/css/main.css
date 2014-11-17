@@ -1,0 +1,555 @@
+/*
+
+Title:		Master styles for screen media
+
+*/
+
+
+
+html {
+
+	background: url(../img/bg-html.png);
+
+}
+
+
+
+body {
+
+	font: 16px/21px normal normal Georgia, "Times New Roman" serif;
+
+	color: #393939;
+
+	text-shadow: #fff 1px 1px 1px;
+
+	background: transparent url(../img/bg-body.png) 50% 0 repeat-x;
+
+}
+
+
+
+/* Links */
+
+
+
+a:link, a:visited {
+
+	color: #fe0081;
+
+	text-decoration: none;
+
+	outline: none;
+
+}
+
+
+
+a:hover {
+
+	color: #fe0081;
+
+	text-decoration: underline;
+
+}
+
+
+
+
+
+/* PAGE STRUCTURE
+
+------------------------------------------------------------- */
+
+
+
+#container {
+
+	width: 800px;
+
+	margin: 0 auto;
+
+	background: url(../img/katie11.png) 100% 0 no-repeat;
+
+}
+
+
+
+
+
+/* HEADER
+
+------------------------------------------------------------- */
+
+
+
+div.header h1 {
+
+	width: 500px;
+
+	font-size: 72px;
+
+	font-weight: bold;
+
+	font-style: italic;
+
+	color: #181818;
+
+	padding: 40px 0 30px 25px;
+
+	background: url(../img/separator.png) 0 100% no-repeat;
+
+	float: left;
+
+	letter-spacing: -3px;
+
+}
+
+
+
+div.header h1 span {
+
+	display: block;
+
+	font-size: 26px;
+
+	color: #ff0082;
+
+	margin: 5px 0 0 0;
+
+	letter-spacing: normal;
+
+}
+
+
+
+div.header img {
+
+	float: right;
+
+	margin: 35px 25px 0 0;
+
+}
+
+
+
+div.tagline {
+
+	background: url(../img/separator.png) 0 100% no-repeat;
+
+	margin: 20px 0;
+
+}
+
+
+
+div.tagline p {
+
+	font-size: 20px;
+
+	font-style: italic;
+
+	line-height: 28px;
+
+	padding: 35px 0 60px 150px;
+
+	background: url(../img/icon-bulb.png) no-repeat;
+
+}
+
+
+
+
+
+/* MAIN STYLES
+
+------------------------------------------------------------- */
+
+
+
+div.section {
+
+	padding: 30px 15px;
+
+	background: url(../img/divider.png) 0 100% repeat-x;
+
+}
+
+
+
+/* Headings */
+
+
+
+div.section h2 {
+
+	color: #fe0081;
+
+	font-size: 36px;
+
+	font-style: italic;
+
+	letter-spacing: -1px;
+
+	height: 67px;
+
+	padding: 0 0 0 90px;
+
+	margin: 0 0 25px 0;
+
+}
+
+
+
+div.section h3 {
+
+	color: #1f1f1f;
+
+	font-size: 24px;
+
+	font-style: italic;
+
+	margin: 0 0 20px 0;
+
+}
+
+
+
+div.section h2.employment {
+
+	background: url(../img/icon-employment.png) no-repeat;
+
+	padding-top: 6px;
+
+}
+
+
+
+div.section h2.experience {
+
+	background: url(../img/icon-experience.png) no-repeat;
+
+	padding-top: 20px;
+
+}
+
+
+
+div.section h2.education {
+
+	background: url(../img/icon-education.png) no-repeat;
+
+	padding-top: 13px;
+
+}
+
+
+
+/* Unordered Lists - Employment */
+
+
+
+div.section ul {
+
+	margin-bottom: 20px;
+
+}
+
+
+
+div.section ul li {
+
+	font-size: 16px;
+
+	line-height: 26px;
+
+	background: url(../img/bullet.png) 0 50% no-repeat;
+
+	padding: 0 0 0 20px;
+
+}
+
+
+
+div.section ul.past li {
+
+	float: left;
+
+	width: 47%;
+
+}
+
+
+
+/* Ordered Lists - Experience & Education */
+
+
+
+div.section ol {
+
+	width: 695px;
+
+	margin: 0 auto;
+
+}
+
+
+
+div.section ol li {
+
+	background: url(../img/divider.png) repeat-x;
+
+	padding: 25px 5px;
+
+}
+
+
+
+div.section ol li:last-child {
+
+	padding-bottom: 0;
+
+}
+
+
+
+div.section ol li h4 {
+
+	color: #1f1f1f;
+
+	font-size: 18px;
+
+	font-style: italic;
+
+	font-weight: normal;
+
+}
+
+
+
+div.section ol li h5 {
+
+	color: #ff0081;
+
+	font-size: 14px;
+
+	font-style: italic;
+
+	font-weight: normal;
+
+}
+
+
+
+div.section ol li span {
+
+	color: #1f1f1f;
+
+	font-style: italic;
+
+	font-size: 12px;
+
+}
+
+
+
+div.section ol li p {
+
+	font-size: 16px;
+
+	font-style: italic;
+
+}
+
+
+
+/* Interests & Contact Details */
+
+
+
+div.section div.interests {
+
+	width: 400px;
+
+	float: left;
+
+	margin: 0 15px 0 0;
+
+	background: url(../img/vertical-line.png) 100% 50% no-repeat;
+
+}
+
+
+
+div.section div.contact {
+
+	width: 320px;
+
+	float: right;
+
+}
+
+
+
+div.section div.interests h3 {
+
+	font-size: 24px;
+
+	color: #fe0081;
+
+	background: url(../img/icon-interests.png) no-repeat;
+
+	height: 35px;
+
+	padding: 3px 0 0 50px;
+
+}
+
+
+
+div.section div.contact h3 {
+
+	font-size: 24px;
+
+	color: #fe0081;
+
+	background: url(../img/icon-contact.png) no-repeat;
+
+	height: 35px;
+
+	padding: 8px 0 0 50px;
+
+}
+
+
+
+div.section div.interests p {
+
+	font-style: italic;
+
+	margin: 0 0 25px 0;
+
+}
+
+
+
+div.section div.interests ul li {
+
+	background: none;
+
+	float: left;
+
+	padding: 0;
+
+	margin: 0 20px 0 0;
+
+}
+
+
+
+div.section div.contact p {
+
+	font-size: 18px;
+
+	margin: 0 0 15px 0;
+
+	padding: 0 0 0 50px;
+
+	line-height: 38px;
+
+}
+
+
+
+div.section div.contact p.url {
+
+	background: url(../img/icon-url.png) no-repeat;
+
+}
+
+
+
+div.section div.contact p.email {
+
+	background: url(../img/icon-email.png) no-repeat;
+
+}
+
+
+
+div.section div.contact p.tel {
+
+	background: url(../img/icon-phone.png) no-repeat;
+
+}
+
+
+
+
+
+/* FOOTER
+
+------------------------------------------------------------- */
+
+
+
+div.footer {
+
+	margin: 20px;
+
+	font-style: italic;
+
+	color: #373737;
+
+}
+
+
+
+div.footer p {
+
+	float: left;
+
+}
+
+
+
+div.footer p.design {
+
+	float: right;
+
+}
+
+
+
+/* MISC.
+
+------------------------------------------------------------- */
+
+
+
+.hide {
+
+	display: none;
+
+}
+
+
+
+
+
+/* self-clear floats */
+
+
+
+.group:after {
+
+	content: "."; 
+
+	display: block; 
+
+	height: 0; 
+
+	clear: both; 
+
+	visibility: hidden;
+
+}
