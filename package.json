@@ -3,7 +3,7 @@
     "uglify-js": "2.4.15",
     "jshint": "2.5.10",
     "recess": "1.1.9",
-    "connect": "3.3.2",
+    "connect": "3.3.3",
     "hogan.js": "3.0.2",
     "grunt": "~0.4.1",
     "grunt-contrib-uglify": "~0.6.0",
