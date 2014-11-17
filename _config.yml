@@ -7,7 +7,7 @@ exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title:  Katie Ball
 production_url: http://katieball.me/
 description: "Thoughts, learnings, technology, tutorials, codes, projects and other things by Katie Ball."
-disqus_shortname: roachhd
+disqus_shortname: katieballme
 #google and gauges analytics
 analytics: UA-47871720-3
 gauges: 545a1241eddd5b4cd300c28b
