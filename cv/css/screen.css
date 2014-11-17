@@ -3,6 +3,6 @@ Title:		Screen styles
 */
 
 
-@import url("reset.css");
-@import url("master.css");
-@import url("ie.css");
+@import url("/cv/css/reset.css");
+@import url("/cv/css/master.css");
+@import url("/cv/css/ie.css");
