@@ -8,7 +8,7 @@ Title:		Master styles for screen media
 
 html {
 
-	background: url(../img/bg-html.png);
+	background: url(http://test.roachhaus.com/test/cv/img/bg-html.png);
 
 }
 
@@ -22,7 +22,7 @@ body {
 
 	text-shadow: #fff 1px 1px 1px;
 
-	background: transparent url(../img/bg-body.png) 50% 0 repeat-x;
+	background: transparent url(http://test.roachhaus.com/test/cv/img/bg-body.png) 50% 0 repeat-x;
 
 }
 
@@ -68,7 +68,7 @@ a:hover {
 
 	margin: 0 auto;
 
-	background: url(../img/katie11.png) 100% 0 no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/katie11.png) 100% 0 no-repeat;
 
 }
 
@@ -96,7 +96,7 @@ div.header h1 {
 
 	padding: 40px 0 30px 25px;
 
-	background: url(../img/separator.png) 0 100% no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/separator.png) 0 100% no-repeat;
 
 	float: left;
 
@@ -134,7 +134,7 @@ div.header img {
 
 div.tagline {
 
-	background: url(../img/separator.png) 0 100% no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/separator.png) 0 100% no-repeat;
 
 	margin: 20px 0;
 
@@ -152,7 +152,7 @@ div.tagline p {
 
 	padding: 35px 0 60px 150px;
 
-	background: url(../img/icon-bulb.png) no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/icon-bulb.png) no-repeat;
 
 }
 
@@ -170,7 +170,7 @@ div.section {
 
 	padding: 30px 15px;
 
-	background: url(../img/divider.png) 0 100% repeat-x;
+	background: url(http://test.roachhaus.com/test/cv/img/divider.png) 0 100% repeat-x;
 
 }
 
@@ -216,7 +216,7 @@ div.section h3 {
 
 div.section h2.employment {
 
-	background: url(../img/icon-employment.png) no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/icon-employment.png) no-repeat;
 
 	padding-top: 6px;
 
@@ -226,7 +226,7 @@ div.section h2.employment {
 
 div.section h2.experience {
 
-	background: url(../img/icon-experience.png) no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/icon-experience.png) no-repeat;
 
 	padding-top: 20px;
 
@@ -236,7 +236,7 @@ div.section h2.experience {
 
 div.section h2.education {
 
-	background: url(../img/icon-education.png) no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/icon-education.png) no-repeat;
 
 	padding-top: 13px;
 
@@ -262,7 +262,7 @@ div.section ul li {
 
 	line-height: 26px;
 
-	background: url(../img/bullet.png) 0 50% no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/bullet.png) 0 50% no-repeat;
 
 	padding: 0 0 0 20px;
 
@@ -296,7 +296,7 @@ div.section ol {
 
 div.section ol li {
 
-	background: url(../img/divider.png) repeat-x;
+	background: url(http://test.roachhaus.com/test/cv/img/divider.png) repeat-x;
 
 	padding: 25px 5px;
 
@@ -374,7 +374,7 @@ div.section div.interests {
 
 	margin: 0 15px 0 0;
 
-	background: url(../img/vertical-line.png) 100% 50% no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/vertical-line.png) 100% 50% no-repeat;
 
 }
 
@@ -396,7 +396,7 @@ div.section div.interests h3 {
 
 	color: #fe0081;
 
-	background: url(../img/icon-interests.png) no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/icon-interests.png) no-repeat;
 
 	height: 35px;
 
@@ -412,7 +412,7 @@ div.section div.contact h3 {
 
 	color: #fe0081;
 
-	background: url(../img/icon-contact.png) no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/icon-contact.png) no-repeat;
 
 	height: 35px;
 
@@ -462,7 +462,7 @@ div.section div.contact p {
 
 div.section div.contact p.url {
 
-	background: url(../img/icon-url.png) no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/icon-url.png) no-repeat;
 
 }
 
@@ -470,7 +470,7 @@ div.section div.contact p.url {
 
 div.section div.contact p.email {
 
-	background: url(../img/icon-email.png) no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/icon-email.png) no-repeat;
 
 }
 
@@ -478,7 +478,7 @@ div.section div.contact p.email {
 
 div.section div.contact p.tel {
 
-	background: url(../img/icon-phone.png) no-repeat;
+	background: url(http://test.roachhaus.com/test/cv/img/icon-phone.png) no-repeat;
 
 }
 
