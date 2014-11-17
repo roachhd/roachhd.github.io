@@ -17,8 +17,8 @@ author:
   twitter:  mektball
   email: katie@roachhd.com
 # Use the following plug-ins
-gems:
 # Emoji please!
+#Create a sitemap using the official Jekyll sitemap gem
+gems:
   - jemoji
-# Create a sitemap using the official Jekyll sitemap gem
   - jekyll-sitemap
