@@ -27,6 +27,22 @@
   <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-57x57-precomposed.png">
   <link rel="shortcut icon" href="/favicon.ico">
 
+   <style type="text/css"> 
+ @import url(http://fonts.googleapis.com/css?family=Acme);html{background-attachment:fixed;background-size:cover;}body{font-family:'Acme','Acto';font-style:italic;padding:250px;font-size:14px;}.wrapper{width:380px;height:230px;margin:0 auto;background-color:white;}p{margin:0;}h1{font-size:22px;margin-top:5px}a{color:black;text-decoration: none;}ul{list-style-type: none;padding:0;}article{padding-left:40px;padding-top:65px;}#gif-card{height:230px;background:url(http://roachhd.github.com/img/the-bg.png) no-repeat;background-position:312px;box-shadow: 0px 0px 24px #000000;} 
+   </style> 
+
+   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"> 
+ </script> 
+
+   <script type="text/javascript" src="http://gifmovie.tumblr.com/api/read/json?num=50&amp;type=photo"> 
+ </script> 
+
+   <script type="text/javascript" src="js/app.js"> 
+ </script> 
+
+   <script type="text/javascript"> 
+ $(function(){TumblrImager.init({json:tumblr_api_read,containerSelector:'html'});$("html").click(function(){$('.wrapper').fadeToggle();});}); 
+   </script> 
 
 </head>
 
@@ -47,4 +63,5 @@
 <script src="/js/up.min.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300'
   rel='stylesheet' type='text/css'>
+
 </html>
