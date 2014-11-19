@@ -30,7 +30,7 @@ While many email clients will strip out the doctype, it's good practice to add a
 The HTML boilerplate will help you in setting up your images correctly, if you have links around your images then a border will be placed around the images, adding these styles will remove all borders around your images.
 
 
-~~~css
+~~~
 <style>
 img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} 
 a img {border:none;} 
@@ -39,7 +39,7 @@ a img {border:none;}
 ~~~
 
 
-~~~html
+~~~
 <img class="image_fix" src="full path to image" alt="Your alt text" title="Your title text" width="x" height="x" />
 ~~~
 
@@ -50,15 +50,15 @@ The HTML boilerplate gives you a starting point to deal with tables, this will p
 
 
 
-~~~css
-<style>
-#backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
-</style>
+
+    <style>
+    #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+    </style>
+
+
+
+
 ~~~
-
-
-
-~~~html
 <table cellpadding="0" cellspacing="0" border="0" id="backgroundTable">
     <tr>
         <td>
@@ -84,7 +84,7 @@ Use the following snippet to reset the styles in the email clients, this will al
 
 
 
-~~~css
+~~~
 /* Client-specific Styles */
 #outlook a {padding:0;} /* Force Outlook to provide a "view in browser" menu link. */
 body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;} 
