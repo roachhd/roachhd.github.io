@@ -35,11 +35,13 @@ The HTML boilerplate will help you in setting up your images correctly, if you h
 img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} 
 a img {border:none;} 
 .image_fix {display:block;}
-</style>~~~
+</style>
+~~~
 
 
 ~~~html
-<img class="image_fix" src="full path to image" alt="Your alt text" title="Your title text" width="x" height="x" />~~~
+<img class="image_fix" src="full path to image" alt="Your alt text" title="Your title text" width="x" height="x" />
+~~~
 
 
 ###Tables
@@ -51,11 +53,12 @@ The HTML boilerplate gives you a starting point to deal with tables, this will p
 ~~~css
 <style>
 #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
-</style>~~~
+</style>
+~~~
 
 
 
-```html
+~~~html
 <table cellpadding="0" cellspacing="0" border="0" id="backgroundTable">
     <tr>
         <td>
@@ -69,12 +72,16 @@ The HTML boilerplate gives you a starting point to deal with tables, this will p
         </td>
     </tr>
 </table>
-```
+~~~
+
+
+
 
 ###Resetting Your Styles
 
 
 Use the following snippet to reset the styles in the email clients, this will also help with font sizes on mobile devices.
+
 
 
 ~~~css
