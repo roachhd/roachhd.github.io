@@ -27,13 +27,13 @@ While many email clients will strip out the doctype, it's good practice to add a
 The HTML boilerplate will help you in setting up your images correctly, if you have links around your images then a border will be placed around the images, adding these styles will remove all borders around your images.
 
 
-```html
+~~~css
 <style>
 img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} 
 a img {border:none;} 
 .image_fix {display:block;}
 </style>
-```
+~~~
 
 
 ```html
