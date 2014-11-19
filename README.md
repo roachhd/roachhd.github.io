@@ -13,3 +13,15 @@ my site
 
 ######JavaScript `package.bower`
 [![Dependency Status](https://www.versioneye.com/user/projects/545c9951924589e503000003/badge.svg?style=flat)](https://www.versioneye.com/user/projects/545c9951924589e503000003)
+
+
+
+
+ {% highlight html %}
+<html> 
+   <head>some code goes here</head>
+    <p> 
+        blah blah <b>blah</b>
+    </p>
+</html>
+ {% endhighlight %}
