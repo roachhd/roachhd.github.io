@@ -1,12 +1,14 @@
-markdown: rdiscount
+markdown: kramdown
 pygments: true
 permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
+#rdiscount:
+#  extensions: [smart]
+kramdown:
+    input: GFM
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title:  Katie Ball
 production_url: http://katieball.me/
-description: "Thoughts, learnings, technology, tutorials, codes, projects and other things by Katie Ball."
+description: "Thoughts, learning's, technology, tutorials, codes, projects and other things by Katie Ball."
 disqus_shortname: katieballme
 #google and gauges analytics
 analytics: UA-47871720-3
