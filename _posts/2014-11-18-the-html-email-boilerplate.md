@@ -1,3 +1,4 @@
+---
 layout: post
 title: The HTML Email Boilerplate
 category: Email
