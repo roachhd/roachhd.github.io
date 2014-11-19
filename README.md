@@ -17,11 +17,11 @@ my site
 
 
 
- {% highlight html %}
+{% highlight html %}
 <html> 
    <head>some code goes here</head>
     <p> 
         blah blah <b>blah</b>
     </p>
 </html>
- {% endhighlight %}
+{% endhighlight %}
