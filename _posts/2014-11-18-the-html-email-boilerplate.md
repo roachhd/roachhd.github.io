@@ -18,7 +18,7 @@ One of the problems that web developers have is getting email newsletters to loo
 
 While many email clients will strip out the doctype, it's good practice to add a doctype so that when we are testing we know that the HTML will render correctly. When popular clients remove the doctype from the email it will be replaced by XHTML 1.0 strict doctype, this is why we make sure we set it as XHTML 1.0 strict.
 
-```html
+```
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 ```
 
@@ -26,13 +26,15 @@ While many email clients will strip out the doctype, it's good practice to add a
 
 The HTML boilerplate will help you in setting up your images correctly, if you have links around your images then a border will be placed around the images, adding these styles will remove all borders around your images.
 
-```css
+
+```html
 <style>
 img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} 
 a img {border:none;} 
 .image_fix {display:block;}
 </style>
 ```
+
 
 ```html
 <img class="image_fix" src="full path to image" alt="Your alt text" title="Your title text" width="x" height="x" />
@@ -42,6 +44,7 @@ a img {border:none;}
 ###Tables
 
 The HTML boilerplate gives you a starting point to deal with tables, this will provide you with a starting point of defaults to use on your table to avoid any formatting problems.
+
 
 ```css
 <style>
