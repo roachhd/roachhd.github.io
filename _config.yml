@@ -1,5 +1,5 @@
 markdown: kramdown
-highlight: pygments
+highlighter: pygments
 permalink: /posts/:title
 #rdiscount:
 #  extensions: [smart]
