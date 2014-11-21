@@ -2,8 +2,8 @@
 layout: post
 title: Setting Up For New Habits
 description: Prepare to start or break a habit and you'll have better chances of success.
-tags: [habits, life hack]
-category: Zen Life
+tags: [lifehack, habits]
+category: Lifehack
 ---
 Today is the day to prepare yourself to start a new habit. So for the next month, starting now, you're ready to start your new habit. Lets get set up for maximum chances of success.
 
