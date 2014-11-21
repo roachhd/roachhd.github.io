@@ -45,8 +45,9 @@ So what to do with new emails that come in? Set some rules, and commit right thi
   - delete (use this liberally), 
   - archive (in case you want to look it up later), 
   - quick reply (four sentences or less) and then archive, 
-  - put on your to-do list for action (if you don't have a list, start one now) and then file in your "action" folder. 
-This last item includes long replies (which should be as rare as possible). If you take one of these four actions, you should dispose of every email.
+  - put on your to-do list for action (if you don't have a list, start one now) and then file in your "action" folder. This last item includes long replies (which should be as rare as possible). 
+
+If you take one of these four actions, you should dispose of every email.
 
 **2\. Go to the next email and take quick action, and so forth**. 
  Don't spend longer than 20 seconds on any one email, and even then you should only do that if you're doing a quick reply or adding the item to your to-do list. If you process this quickly, you'll be done with your inbox in minutes.
