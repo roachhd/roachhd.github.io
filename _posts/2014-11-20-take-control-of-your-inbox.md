@@ -28,7 +28,6 @@ You need to give yourself some breathing room. A flooded inbox is overwhelming, 
  Go through your inbox and check off 10-15 that are the most urgent action emails, and file them in this new folder. If you don't get to the sections below right away, you can at least work from this folder for now.
 
 **3\. Temporarily archive**. 
-
  Now create a "temp" folder. File everything that's still in your inbox into this temp folder. Everything. You're going to get these out of the way and not worry about them at the moment. We'll get to these, but it gives you a little breathing room.
 
 **4\. Set a new policy**. 
