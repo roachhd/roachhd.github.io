@@ -1,0 +1,354 @@
+
+/*
+ _       _______________________________ _ _______    ________________        _       _______ 
+| \    /(  ___  \__   __\__   __(  ____ ( (  ____ \  (  ____ \__   __|\     /( \     (  ____ \
+|  \  / | (   ) |  ) (     ) (  | (    \|/| (    \/  | (    \/  ) (  ( \   / | (     | (    \/
+|  (_/ /| (___) |  | |     | |  | (__     | (_____   | (_____   | |   \ (_) /| |     | (__    
+|   _ ( |  ___  |  | |     | |  |  __)    (_____  )  (_____  )  | |    \   / | |     |  __)   
+|  ( \ \| (   ) |  | |     | |  | (             ) |        ) |  | |     ) (  | |     | (      
+|  /  \ | )   ( |  | |  ___) (__| (____/\ /\____) |  /\____) |  | |     | |  | (____/| (____/\
+|_/    \|/     \|  )_(  \_______(_______/ \_______)  \_______)  )_(     \_/  (_______(_______/
+                                                                                              
+*/
+
+* {
+    font-family: Avenir, Helvetica Neue, Helvetica, Arial, freesans,clean,sans-serif;
+}
+
+html,body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,code,em,img,small,strong,sub,sup,b,i,dl,dt,dd,ol,ul,li,table,tbody,tfoot,thead,tr,th,td {
+    border: 0;
+    /* font-size: <fontsize>px; dynamic variable set in application preferences*/
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    /*-webkit-font-smoothing: antialiased;*/
+    background-color: rgba(255,255,255,0.0);
+    padding-top: 12px;
+    padding-right: 30px; /* padding-right: 0; (set to 30 for example render) */
+    padding-bottom: 9px;
+    padding-left: 30px; /* padding-left: 0; (set to 30 for example render) */
+    color: #333;
+}
+
+/* Highlighed Text Color */
+
+::selection {background: #68C6DF; color:#FFFFFF;}
+
+/* EMBEDS */
+img {
+    display: block;
+    padding: 10px 0;
+    max-width: 100%;
+}
+
+.video_embed {
+    display: block;
+    padding: 10px 0;
+    height: <videoheight>px; /* dynamic variable set by application */
+    width: <screenwidth>px; /* dynamic variable set by application */
+}
+
+/* STYLES */
+em {
+    color: #373737;
+}
+
+strong {
+    color: #252525;
+}
+
+a {
+    color: #47B1C7;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EA4C89;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #eaeaea;
+    display: block;
+    height: 1px;
+    margin: 1em 0;
+    padding: 0;
+}
+
+
+/* HEADERS */
+
+
+h1 {
+    font-size: 1.2em;
+    font-weight: 700;
+    line-height: 1.3;
+    margin: 10px 0 7px;
+}
+
+h1.title {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #26748F;
+    line-height: 1.3;
+    margin: 11px 0 16px;
+}
+
+h2 {
+    color: #333;
+    font-size: 1em;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 22px 0 7px;
+}
+
+h3,h4,h5,h6 {
+    line-height: 1.1;
+    margin: 24px 0 5px;
+}
+
+h3 {
+    color: #EA4C89;
+    font-size: .85em;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h4 {
+    color: #26748F;
+    font-size: 1.1em;
+    font-weight: 700;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #ddd;
+}
+
+h5 {
+    font-size: 1em;
+    font-weight: 700;
+    color: #26748F;
+}
+
+h6 {
+    color: #415F6C;
+    font-size: .85em;
+    font-weight: 700;
+    font-variant: italic;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+}
+
+
+dl,ol,ul,p,blockquote,pre {
+    margin-top: 12px;
+    margin-bottom: 18px;
+}
+
+
+
+/* LISTS */
+
+ol,ul {
+    margin: .8em 1em;
+    padding-left: .8em;
+}
+
+ol li {
+    margin-left: 1em;
+    margin-bottom: .3em;
+}
+
+ul li {
+    margin-left: 1em;
+    margin-bottom: .3em;
+}
+
+ol ol,ol ul,ul ol,ul ul {
+    margin: .3em 0;
+}
+
+.footnotes ol li {
+    margin-bottom: 10px;
+    margin-left: 16px;
+    font-weight: 800;
+    font-size: .9em;
+}
+
+.footnotes ol li p {
+    font-weight: 400;
+    font-size: 1em;
+}
+
+/* code */
+/* preformatted */
+blockquote {
+    border-left: solid .4em #ddd;
+    padding-left: 10px;
+    quotes: none;
+}
+
+pre,code,tt {
+    font: 1em 'Bitstream Vera Sans Mono', Courier New, monospace;
+}
+
+pre {
+    background-color: #f8f8f8;
+    border: #E8E8E8 1px solid;
+    color: #444;
+    display: block;
+    margin: 12px 0;
+    overflow: auto;
+    padding: 6px 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    cursor: text;
+    max-width: 100%;
+    overflow: auto;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+code {
+    color: #2c92b0;
+    border: 1px solid #E8E8E8;
+    font-size: .95em;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+pre code {
+    font-size: .95em;
+    padding: 0 !important;
+    background-color: #F6F6F6;
+    border: none !important;
+    overflow: visible;
+}
+
+/* tables */
+table {
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-spacing: 0;
+}
+
+table th {
+    padding: 3px 10px;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+
+table tr {
+}
+
+table td {
+    padding: 3px 10px;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+
+/* sub */
+sup,sub,a.footnote {
+    font-size: 1.4ex;
+    height: 0;
+    line-height: 1;
+    vertical-align: super;
+    position: relative;
+    font-weight: 800;
+}
+
+sub {
+    vertical-align: sub;
+    top: -1px;
+}
+
+small {
+    font-size: 85%;
+}
+
+mark {
+    background: #ff0;
+    color: #000;
+    font-style: italic;
+    font-weight: 600;
+}
+
+/* Pygment - Here for evaluation as we continue to investigate support for code highlighting */
+
+.highlight  { background: #ffffff; }
+.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .k { font-weight: bold } /* Keyword */
+.highlight .o { font-weight: bold } /* Operator */
+.highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #aa0000 } /* Generic.Error */
+.highlight .gh { color: #999999 } /* Generic.Heading */
+.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .gi .x { color: #000000; background-color: #aaffaa } /* Generic.Inserted.Specific */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #555555 } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #800080; font-weight: bold; } /* Generic.Subheading */
+.highlight .gt { color: #aa0000 } /* Generic.Traceback */
+.highlight .kc { font-weight: bold } /* Keyword.Constant */
+.highlight .kd { font-weight: bold } /* Keyword.Declaration */
+.highlight .kn { font-weight: bold } /* Keyword.Namespace */
+.highlight .kp { font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #009999 } /* Literal.Number */
+.highlight .s { color: #d14 } /* Literal.String */
+.highlight .na { color: #008080 } /* Name.Attribute */
+.highlight .nb { color: #0086B3 } /* Name.Builtin */
+.highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+.highlight .no { color: #008080 } /* Name.Constant */
+.highlight .ni { color: #800080 } /* Name.Entity */
+.highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+.highlight .nn { color: #555555 } /* Name.Namespace */
+.highlight .nt { color: #000080 } /* Name.Tag */
+.highlight .nv { color: #008080 } /* Name.Variable */
+.highlight .ow { font-weight: bold } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mf { color: #009999 } /* Literal.Number.Float */
+.highlight .mh { color: #009999 } /* Literal.Number.Hex */
+.highlight .mi { color: #009999 } /* Literal.Number.Integer */
+.highlight .mo { color: #009999 } /* Literal.Number.Oct */
+.highlight .sb { color: #d14 } /* Literal.String.Backtick */
+.highlight .sc { color: #d14 } /* Literal.String.Char */
+.highlight .sd { color: #d14 } /* Literal.String.Doc */
+.highlight .s2 { color: #d14 } /* Literal.String.Double */
+.highlight .se { color: #d14 } /* Literal.String.Escape */
+.highlight .sh { color: #d14 } /* Literal.String.Heredoc */
+.highlight .si { color: #d14 } /* Literal.String.Interpol */
+.highlight .sx { color: #d14 } /* Literal.String.Other */
+.highlight .sr { color: #009926 } /* Literal.String.Regex */
+.highlight .s1 { color: #d14 } /* Literal.String.Single */
+.highlight .ss { color: #990073 } /* Literal.String.Symbol */
+.highlight .bp { color: #999999 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #008080 } /* Name.Variable.Class */
+.highlight .vg { color: #008080 } /* Name.Variable.Global */
+.highlight .vi { color: #008080 } /* Name.Variable.Instance */
+.highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+.type-csharp .highlight .k { color: #0000FF }
+.type-csharp .highlight .kt { color: #0000FF }
+.type-csharp .highlight .nf { color: #000000; font-weight: normal }
+.type-csharp .highlight .nc { color: #2B91AF }
+.type-csharp .highlight .nn { color: #000000 }
+.type-csharp .highlight .s { color: #A31515 }
+.type-csharp .highlight .sc { color: #A31515 }
