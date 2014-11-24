@@ -5,86 +5,85 @@ title: "README Style Guide"
 <section class="content about">
 
 <!--  <h1 class="big thin">README</h1> -->
+  
+<h4 id="astyleguideforreadmefiles">A Style Guide for README files</h4>
 
-#### A Style Guide for README files
+<h2 id="contents">Contents</h2>
 
-## Contents
+<p>The <code>README.md</code> file and supporting documents should describe the following, in this order. If the file starts getting long, break it into pieces</p>
 
-The `README.md` file and supporting documents should describe the following, in this order. If the file starts getting long, break it into pieces
+<ul>
+<li><p><strong>Project Titles</strong> as a level-1 heading</p>
 
-* **Project Titles** as a level-1 heading
-  - with descriptive tagline: I should be informed and intrigued. Examples:
-    - "Sinatra is a DSL for quickly creating web applications in Ruby with minimal
-effort"
-    - "Rails is a web-application framework that includes everything needed to create
-database-backed web applications according to the Model-View-Controller (MVC) pattern."
-    - "Resque (pronounced like "rescue") is a Redis-backed library for creating
+<ul><li>with descriptive tagline: I should be informed and intrigued. Examples:</li>
+<li>"Sinatra is a DSL for quickly creating web applications in Ruby with minimal
+effort"</li>
+<li>"Rails is a web-application framework that includes everything needed to create
+database-backed web applications according to the Model-View-Controller (MVC) pattern."</li>
+<li>"Resque (pronounced like "rescue") is a Redis-backed library for creating
 background jobs, placing those jobs on multiple queues, and processing
-them later."
+them later."</li></ul></li>
+<li><p><strong>Overview</strong></p>
 
-* **Overview**
-  - what it does
-  - why you might want to use it, and why you might not
+<ul><li>what it does</li>
+<li>why you might want to use it, and why you might not</li></ul></li>
+<li><p><strong>Example Usage</strong>: a basic example. Nothing fancy -- put rich examples in the detailed usage section</p></li>
+<li><p><strong>Getting Started</strong></p>
 
-* **Example Usage**: a basic example. Nothing fancy -- put rich examples in the detailed usage section
+<ul><li>installation &amp; prerequisites</li>
+<li>how to run examples and tests</li>
+<li>include a <code>Procfile</code> to start any necessary servers or daemon processes</li>
+<li>location of:</li>
+<li>code</li>
+<li>issue tracker</li>
+<li>wiki</li>
+<li>blog posts, screencasts, etc</li>
+<li>compiled documentation (add the project to <a href="http://rdoc.info">rdoc.info</a>)</li>
+<li>travis-ci results</li>
+<li>mailing list</li></ul></li>
+<li><p><strong>Design Goals</strong></p>
 
-* **Getting Started**
-  - installation & prerequisites
-  - how to run examples and tests
-    - include a `Procfile` to start any necessary servers or daemon processes
-  - location of:
-    - code
-    - issue tracker
-    - wiki
-    - blog posts, screencasts, etc
-    - compiled documentation (add the project to [rdoc.info](http://rdoc.info))
-    - travis-ci results
-    - mailing list
+<ul><li>lightweight or full-featured?</li>
+<li>performance, flexibility, expressiveness?</li></ul></li>
+<li><p><strong>Detailed Usage</strong></p>
 
-* **Design Goals**
-  - lightweight or full-featured?
-  - performance, flexibility, expressiveness?
+<ul><li>models and interface</li>
+<li>examples</li>
+<li>configuration</li>
+<li>middleware or plugins</li>
+<li>how it works</li></ul></li>
+<li><p><strong>Comparable Tools</strong></p></li>
+<li><p><strong>Developer info</strong></p>
 
-* **Detailed Usage**
-  - models and interface
-  - examples
-  - configuration
-  - middleware or plugins
-  - how it works
+<ul><li>Important Components</li>
+<li>layout of internal code tree</li>
+<li>Limitations and known issues</li>
+<li>performance and benchmarking</li></ul></li>
+<li><p><strong>Colophon</strong></p>
 
-* **Comparable Tools**
+<ul><li>Credits -- everyone who has contributed code, libraries from which we've borrowed code.</li>
+<li>Copyright and License -- state the license type (typically "Apache 2.0" or "All Rights Reserved and Confidential") and refer to the <code>LICENSE.md</code> file. Don't paste the license contents in here.</li>
+<li>How to contribute</li>
+<li>References</li></ul></li>
+</ul>
 
-* **Developer info**
-  - Important Components
-  - layout of internal code tree
-  - Limitations and known issues
-  - performance and benchmarking
+<h2 id="formatting">Formatting</h2>
 
-* **Colophon**
-  - Credits -- everyone who has contributed code, libraries from which we've borrowed code.
-  - Copyright and License -- state the license type (typically "Apache 2.0" or "All Rights Reserved and Confidential") and refer to the `LICENSE.md` file. Don't paste the license contents in here.
-  - How to contribute
-  - References
+<ul>
+<li>Call the file <code>README.md</code>.</li>
+<li><p>Write in markdown format.</p>
 
-## Formatting
+<ul><li><p>You should use triple backtick blocks for code, and supply a language prefix:</p>
 
-* Call the file `README.md`.
-* Write in markdown format.
-  - You should use triple backtick blocks for code, and supply a language prefix:
+<p><code>ruby
+def hello(str)
+  puts "hello #{str}!"
+end
+</code></p></li></ul></li>
+<li><p>Do not wrap lines. In emacs, enable the <code>longlines-mode</code> to make your document word wrap intelligently.</p></li>
+</ul>
 
-        ```ruby
-        def hello(str)
-          puts "hello #{str}!"
-        end
-        ```
+<h2 id="supportingdocumentation">Supporting Documentation</h2>
 
-* Do not wrap lines. In emacs, enable the `longlines-mode` to make your document word wrap intelligently.
-
-
-
-
-## Supporting Documentation
-
-Besides a `README.md`, your repo should contain a `CHANGELOG.md` summarizing major code changes, a `LICENSE.md` describing the code's license (typically Apache 2.0 for our open-source projects, All Rights Reserved for internal projects), and a `notes/` directory that is a git submodule of the project's wiki. See the [style guide for repo organization](https://github.com/roachhd/style_guide/blob/master/style-guide-for-repo-organization.md) for more details.
-
+<p>Besides a <code>README.md</code>, your repo should contain a <code>CHANGELOG.md</code> summarizing major code changes, a <code>LICENSE.md</code> describing the code's license (typically Apache 2.0 for our open-source projects, All Rights Reserved for internal projects), and a <code>notes/</code> directory that is a git submodule of the project's wiki. See the <a href="https://github.com/roachhd/style_guide/blob/master/style-guide-for-repo-organization.md">style guide for repo organization</a> for more details.</p>
 </section>
