@@ -6,7 +6,7 @@ This is my site.
 
 ### These are the dependencies.
 
-##### Katie `.coolness`
+###### Katie `.coolness`
  ![do I rock](http://img.shields.io/badge/do%20i%20rock-passing-ff69bd.svg) 
 
 ###### Ruby `.gemfile`
