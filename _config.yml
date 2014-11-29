@@ -22,5 +22,4 @@ author:
 # Emoji please!
 #Create a sitemap using the official Jekyll sitemap gem
 gems:
-  - jemoji
   - jekyll-sitemap
