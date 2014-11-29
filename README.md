@@ -19,6 +19,8 @@ This is my site.
 ###### JavaScript `package.bower`
 [![Dependency Status](https://www.versioneye.com/user/projects/545c9951924589e503000003/badge.svg?style=flat)](https://www.versioneye.com/user/projects/545c9951924589e503000003)
 
+###### GitHub Page Ruby Gem
+[![Gem Version](https://badge.fury.io/rb/github-pages.svg)](http://badge.fury.io/rb/github-pages) [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
 
 
 
