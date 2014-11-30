@@ -25,12 +25,23 @@ This is my site.
 ###### Code Climate
 [![Code Climate](https://codeclimate.com/github/roachhd/roachhd.github.io/badges/gpa.svg)](https://codeclimate.com/github/roachhd/roachhd.github.io)
 
+###### Travis-ci Site Build Status
+![Travis-ci status](http://travis-ci.org/roachhd/notepad.svg?gh-pages=42445923)
+
+###### Travis-ci GitHub Gem Status 
+[![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
+
+
+💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 
+
+
 
 
 ---
 
-##### Some stuff.
+###### Some stuff my brain can't remember.
 
+```liquid
 {% highlight html %}
 <html> 
    <head>some code goes here</head>
@@ -38,4 +49,6 @@ This is my site.
         blah blah <b>blah</b>
     </p>
 </html>
+
 {% endhighlight %}
+```
