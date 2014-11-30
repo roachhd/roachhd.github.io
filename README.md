@@ -22,7 +22,7 @@ This is my site.
 ###### GitHub Page Ruby Gem
 [![Gem Version](https://badge.fury.io/rb/github-pages.svg)](http://badge.fury.io/rb/github-pages) [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
 
-##### Code Climate
+###### Code Climate
 [![Code Climate](https://codeclimate.com/github/roachhd/roachhd.github.io/badges/gpa.svg)](https://codeclimate.com/github/roachhd/roachhd.github.io)
 ---
 
