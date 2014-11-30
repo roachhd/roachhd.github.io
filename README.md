@@ -24,6 +24,9 @@ This is my site.
 
 ###### Code Climate
 [![Code Climate](https://codeclimate.com/github/roachhd/roachhd.github.io/badges/gpa.svg)](https://codeclimate.com/github/roachhd/roachhd.github.io)
+
+
+
 ---
 
 ##### Some stuff.
