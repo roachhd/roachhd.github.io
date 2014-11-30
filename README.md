@@ -1,10 +1,13 @@
 roachhd.github.io
 =================
 
-This is my site.
+This is my site. It's awesome, you should check out out 🙆.
 
+It's powered by [Jekyll](http://jekyllrb.com/) and I'm powered by 🍕, 🍵 & ❤.
 
-### These are the dependencies.
+---
+
+### Badges are sooo 90's
 
 ###### Katie `.coolness`
  ![do I rock](http://img.shields.io/badge/do%20i%20rock-passing-ff69bd.svg) 
@@ -35,11 +38,18 @@ This is my site.
 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 💎 
 
 
-
-
 ---
 
 ###### Some stuff my brain can't remember.
+
+
+###### Front Matter
+
+```ymal
+
+```
+
+###### Pretty Code Stuffs
 
 ```liquid
 {% highlight html %}
@@ -52,3 +62,8 @@ This is my site.
 
 {% endhighlight %}
 ```
+
+
+---
+
+The End.
