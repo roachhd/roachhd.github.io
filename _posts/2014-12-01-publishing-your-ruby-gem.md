@@ -65,7 +65,7 @@ Congratulations! Your new gem is now ready for any ruby user in the world to ins
 
 If you have multiple maintainers for your gem you can give your fellow maintainers permission to push the gem to rubygems.org through the [gem owner command][9].
 
-[1]: http://guides.rubygems.org/make-your-own-gem
+[1]: http://katieball.me/posts/make-your-own-gems/
 [2]: https://github.com
 [3]: http://bundler.io/git.html
 [4]: http://guides.rubygems.org/run-your-own-gem-server
@@ -74,4 +74,3 @@ If you have multiple maintainers for your gem you can give your fellow maintaine
 [7]: https://rubygems.org/
 [8]: https://rubygems.org/users/new
 [9]: http://guides.rubygems.org/command-reference/#gem_owner
-[10]: http://guides.rubygems.org/security
