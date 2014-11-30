@@ -392,7 +392,7 @@ With this basic understanding of building your own RubyGem, we hope you'll be on
 
 This tutorial was adapted from [Gem Sawyer, Modern Day Ruby Warrior][26]. The code for this gem can be found [on GitHub][1].
 
-[1]: https://github.com/qrush/hola
+[1]: https://github.com/roachhd/hola
 [2]: http://guides.rubygems.org/patterns/#consistent-naming
 [3]: http://rubygems.org
 [4]: http://rubygems.org/gems/jekyll
