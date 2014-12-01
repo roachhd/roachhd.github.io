@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: post
 title: "When I Was A Kid"
 ---
 
