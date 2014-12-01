@@ -15,7 +15,7 @@ If you want to build something on the web, don’t worry about learning HTML, CS
 
 You can do a lot of the work with simple sketches or slides. You’ll be able to see your idea take form and begin to evaluate whether or not it really is something special. It’s at that point you can take the next step, which might be learning enough HTML to take your prototype into the browser. The point is, go as far as you can with the skills and tools that you have.
 
-#### Avoid self doubt
+### Avoid self doubt
 
 Many times the reasons we don’t start something have nothing to do with lack of skills, materials, or facilities. The real blockers are self-criticism and excuses. In the excellent book, Drawing on the Right Side of the Brain, the author, Betty Edwards, discusses how we all draw as kids but around adolescence, many of us stop developing that ability.
 
