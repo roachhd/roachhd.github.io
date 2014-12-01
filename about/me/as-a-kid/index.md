@@ -14,9 +14,9 @@ title: "When I Was A Kid"
     <li>The Atari changed **everything**</li>
   </ul>
 
-<blockquote>"Oh winged horse of marble white, take me on a magic flight". </blockquote>
+<img src="http://www.toonarific.com/pics_root//00002197/lunologo.jpg">
 
-![Luno](http://www.toonarific.com/pics_root//00002197/lunologo.jpg)
+<blockquote>"Oh winged horse of marble white, take me on a magic flight". </blockquote>
 
 
 </section>
