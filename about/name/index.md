@@ -1,5 +1,5 @@
 ---
-layout: innerpage
+layout: inner
 title: What's in a Name?
 ---
 # Ball Surname and Family History
