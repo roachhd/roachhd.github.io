@@ -3,8 +3,6 @@ layout: post
 title: "Simple Things I Love"
 ---
 
-## The Simple Things I Love
-
 ###### By Katie Ball
 
 * Quiet mornings.
@@ -40,4 +38,4 @@ title: "Simple Things I Love"
 * The way the dogs gets excited when he sees me, whether it has been 5 minutes or 5 hours.
 
 
-#####
+
