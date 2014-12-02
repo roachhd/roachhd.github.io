@@ -17,7 +17,7 @@ title: "When I Was A Kid"
 
     <h3>Other Kid Stuff</h3>
       <ul>
-         <li>I wanted to be a flying horse when I grew up. Just like [Lumo](http://www.toonarific.com/show.php?prodstudio_id=77&show_id=2197)</li>
+         <li>I wanted to be a flying horse when I grew up. Just like <a href="http://www.toonarific.com/show.php?prodstudio_id=77&show_id=2197" target="_blank">Luno</a></li>
          <li>As a child growing up in Melbourne I loved football and especially my Tigers. When I was 3 years old they had won 10 premierships. Now it's almost 2015 and the total number of premierships remaines the same #GoTiges).</li>
 
       </ul>
