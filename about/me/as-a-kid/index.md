@@ -10,7 +10,7 @@ title: "When I Was A Kid"
       <ul>
         <li>Boys have cootees.</li>
         <li>My 64kB <a hreg="https://en.m.wikipedia.org/wiki/Commodore_64" target="_blank">Commodore 64</a> had superior  technology!</li>
-        </li>You should never wake a sleepwalker. The shock will kill them.</li>
+        <li>You should never wake a sleepwalker. The shock will kill them.</li>
 
       </ul>
 
