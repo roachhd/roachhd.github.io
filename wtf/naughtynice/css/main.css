@@ -1,0 +1,611 @@
+/* reset */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Oswald:400,700);
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; } article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; } body { line-height: 1; } ol, ul { list-style: none; } blockquote, q { quotes: none; } blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; } table { border-collapse: collapse; border-spacing: 0; } img { display: block }
+
+div#test {
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: none; }
+
+/* body */
+
+body {
+	background-color: #4795cc;
+	background: url(/s/img/background.png), #4795cc;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: 1200px; }
+	@media (max-width: 400px) {
+		body {
+			background-size: 600px;
+		}
+	}
+
+body > div.wrapper {
+	width: 90%;
+	max-width: 860px;
+	min-height: 1000px;
+	margin: 0 auto 440px auto;
+	overflow-x: hidden; }
+	@media (max-width: 400px) {
+		body > div.wrapper {
+			margin-bottom: 300px;
+		}
+	}
+
+/* header */
+
+div#header {
+	position: relative; }
+
+div#header h1 {
+	position: relative;
+	margin: 0.9em 0 0 0;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 6.8em;
+	line-height: 1.5em;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	color: #ffffff;
+}
+
+div#header h1 a {
+	color: #ffffff;
+	text-decoration: none; }
+
+div#header h1 span.small {
+	display: inline-block;
+	position: relative;
+	font-size: 0.6em;
+	line-height: 1em;
+	bottom: 0.25em; }
+
+div#header h2 {
+	width: 80%;
+	margin: 0.5em auto 0 auto;
+	text-align: center;
+	font-size: 1.6em;
+	line-height: 1.2em;
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 300;
+	color: #000000; }
+
+div#header span.bird {
+	display: inline-block;
+	position: relative; }
+
+div#header span.bird img {
+	position: absolute;
+	top: -0.28em;
+	left: 0.35em;
+	width: 0.60em; }
+
+/* login */
+
+div#login {
+	margin: 3em 0 0 0;
+	text-align: center; }
+
+div#login a#facebook {
+	display: inline-block;
+	width: 273px;
+	height: 48px;
+	background: url(/assets/santa/facebook.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-indent: -9999px;
+	margin: 0.5em; }
+
+div#login a#twitter {
+	display: inline-block;
+	width: 273px;
+	height: 48px;
+	background: url(/assets/santa/twitter.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-indent: -9999px;
+	margin: 0.5em; }
+
+div#login a:hover {
+	opacity: 0.85; -webkit-opacity: 0.85; -moz-opacity: 0.85;
+	-webkit-transition: all 0.2s; }
+
+div#checkboxes {
+	margin: 1em 0 0 0;
+	font-size: 13px;
+	line-height: 1.4em;
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 300;
+	color: #000000; }
+
+div#checkboxes div {
+	display: inline-block; }
+	@media (max-width: 500px) {
+		div#checkboxes div {
+			display: block;
+			margin-top: 0.5em;
+		}
+	}
+
+/* celebs */
+
+div#celebs {
+	margin: 7em 0 0 0; }
+
+div#celebs h3 {
+	width: 60%;
+	margin: 0 auto 1em auto;
+	padding: 0 0 0.25em 0;
+	border-bottom: 0.1em solid #ffffff;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "league-gothic", sans-serif;
+	font-size: 3em;
+	color: #ffffff; }
+
+div#celebs ul {
+	text-align: center; }
+
+div#celebs ul li {
+	display: inline-block;
+	text-align: left;
+	text-transform: capitalize;
+	background: #ffffff;
+	padding: 0.8em;
+	border-radius: 6px;
+	margin: 0 0.5em 1em 0.5em; }
+
+div#celebs ul li img {
+	position: relative;
+	float: left;
+	border-radius: 4px;
+	margin: 0 1em 0 0; }
+
+div#celebs a {
+	text-decoration: none;
+	color: #000000;
+	display: inline-block;
+	white-space: nowrap;
+}
+
+div#celebs ul li div {
+   display: inline-block;
+}
+
+div#celebs ul li span.name {
+	font-size: 1.4em;
+	line-height: 1em;
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 300;
+	color: #000000; }
+
+div#celebs ul li p {
+	margin: 0.4em 0 0 0;
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 700;
+	font-size: 1em;
+	line-height: 1.2em;
+	text-transform: uppercase;
+	color: #000000; }
+
+div#celebs ul li p.nice {
+	color: #56a928; }
+
+div#celebs ul li p.naughty {
+	color: #bf4a2d; }
+
+div#celebs ul li p:hover {
+	color: #000000;
+	-webkit-transition: all 0.2s; }
+
+div#celebs h2 {
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 700;
+	font-size: 2em;
+	line-height: 2em;
+	margin: 0 auto;
+	width: 18em;
+}
+
+
+/* map */
+#map-shell {
+	/* width: 700px; */
+	width: 100%;
+}
+#map_canvas span {
+	font-size: 1em;
+}
+#tweet-map-info {
+	height: 60px;margin:5px 0 0 0; text-algin:left;
+}
+#tweet-map-info-img {
+	float:left;width:48px;height:48px;margin:0 5px 0 0;
+}
+#tweet-map-user-info {
+	float:left;width:140px;height:48px; text-algin:left;
+}
+#tweet-map-user-info h4 {
+	margin: 5px 0px 0px 0px;width:140px; text-algin:left;
+}
+div#map_canvas {
+	height: 400px;
+	/* width: 700px; */
+}
+
+div#map {
+	margin: 7em 0 0 0; }
+
+div#map h3 {
+	position: relative;
+	width: 60%;
+	margin: 0 auto 1em auto;
+	padding: 0 0 0.25em 0;
+	border-bottom: 0.1em solid #ffffff;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "league-gothic", sans-serif;
+	font-size: 3em;
+	color: #ffffff; }
+
+div#map div#map-wrapper {
+	margin: 0 auto;
+	/* width: 700px; */
+	position: relative;
+	background: #ffffff;
+	padding: 0.8em;
+	border-radius: 6px; }
+	
+div#map div#map-wrapper:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0; }
+
+div#map div#map-wrapper iframe {
+	position: relative;
+	float: left; }
+
+div#map span.bird {
+	display: inline-block;
+	position: absolute;
+	top: -2.7em;
+	left: 3em; }
+
+div#map span.bird img {
+	width: 2.6em; }
+
+
+/* credits */
+
+div#credits {
+	margin: 10em 0 3em 0;
+	text-align: center;
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 300;
+	font-size: 13px;
+	line-height: 1.4em;
+	color: #000000; }
+
+div#credits a {
+	color: #000000;
+	text-decoration: none;
+	border-bottom: 1px solid #000000; }
+
+div#credits a:hover {
+	color: #ffffff;
+	border-bottom-color: transparent;
+	-webkit-transition: all 0.2s; }
+
+div#twitter_follow {
+	margin: 2em 0 0 0; }
+
+/* warning */
+
+div.warning {
+	width: 80%;
+	max-width: 860px;
+	margin: 1em auto 3em auto;
+	padding: 1em;
+	background-color: #f5eead;
+	border: 1px solid #beaf18;
+	border-radius: 6px;
+	text-align: center;
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 300;
+	font-size: 0.9em;
+	line-height: 1.2em;
+	color: #000000; }
+
+div.warning a {
+	color: #000000;
+	text-decoration: none;
+	border-bottom: 1px solid #000000; }
+
+div.warning a:hover {
+	color: #d5791a;
+	border-bottom-color: transparent;
+	-webkit-transition: all 0.2s; }
+
+/* user results */
+
+div#results {
+	margin: 7em 0 0 0; }
+
+div#results h3 {
+	position: relative;
+	width: 60%;
+	margin: 0 auto 1em auto;
+	padding: 0 0 0.25em 0;
+	border-bottom: 0.1em solid #ffffff;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "league-gothic", sans-serif;
+	font-size: 3em;
+	color: #ffffff; }
+
+div#results div#results-wrapper {
+	background: #ffffff;
+	padding: 0.8em;
+	border-radius: 6px; }
+
+div#results div#results-graph {
+	position: relative; }
+
+div#results div#results-graph:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0; }
+
+div#results span {
+	display: block;
+	position: relative;
+	float: left;
+	text-align: center;
+	font-size: 1.5em;
+	line-height: 4em;
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 700;
+	color: #ffffff; }
+	@media (max-width: 400px) {
+		div#results span {
+			font-size: 1.1em;
+			line-height: 5em;
+		}
+	}
+
+div#results span#naughty {
+	border-radius: 4px 0 0 4px;
+	background-color: #bf4a2d;
+	width: 25%; }
+
+div#results span#dirty {
+	background-color: #d9775f;
+	width: 25%; }
+
+div#results span#nice {
+	background-color: #56a928;
+	width: 25%; }
+
+div#results span#cheer {
+	border-radius: 0 4px 4px 0;
+	background-color: #7fc757;
+	width: 25%; }
+
+div#results p {
+	margin: 2em auto 0 auto;
+	width: 80%;
+	text-align: center;
+	font-size: 1.2em;
+	line-height: 1.4em;
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 300;
+	color: #000000; }
+
+div#results p a {
+	color: #000000;
+	text-decoration: none;
+	border-bottom: 1px solid #000000; }
+
+div#results p a:hover {
+	color: #ffffff;
+	border-bottom-color: transparent;
+	-webkit-transition: all 0.2s; }
+
+div#addthis {
+	margin: 2em 0 0 0;
+	text-align: center; }
+
+div.addthis_toolbox {
+	display: inline-block; }
+
+/* login user */
+
+div#login_user {
+	margin: 7em 0 0 0;
+	text-align: center; }
+
+div#login_user h3 {
+	position: relative;
+	width: 60%;
+	margin: 0 auto 1em auto;
+	padding: 0 0 0.25em 0;
+	border-bottom: 0.1em solid #ffffff;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "league-gothic", sans-serif;
+	font-size: 3em;
+	color: #ffffff; }
+
+
+div#login_user a#facebook {
+	display: inline-block;
+	width: 273px;
+	height: 48px;
+	background: url(/assets/santa/facebook.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-indent: -9999px;
+	margin: 0.5em; }
+
+div#login_user a#twitter {
+	display: inline-block;
+	width: 273px;
+	height: 48px;
+	background: url(/assets/santa/twitter.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-indent: -9999px;
+	margin: 0.5em; }
+
+div#login_user a:hover {
+	opacity: 0.85; -webkit-opacity: 0.85; -moz-opacity: 0.85;
+	-webkit-transition: all 0.2s; }
+
+div#login_user p {
+	margin: 0 auto 1em auto;
+	width: 80%;
+	text-align: center;
+	font-size: 1.2em;
+	line-height: 1.4em;
+	font-family: "nimbus-sans", sans-serif;
+	font-weight: 300;
+	color: #000000; }
+
+/* stats */
+
+div#stats {
+	margin: 7em 0 0 0;
+	text-align: center; }
+
+div#stats h3 {
+	width: 60%;
+	margin: 0 auto 1em auto;
+	padding: 0 0 0.25em 0;
+	border-bottom: 0.1em solid #ffffff;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 3em;
+	color: #ffffff; }
+
+div#stats div {
+	margin-bottom: 3em; }
+
+div#stats div span {
+	display: block;
+	font-family: "nimbus-sans", sans-serif;
+	font-size: 7em;
+	line-height: 1em;
+	font-weight: 700;
+}
+
+div#stats div h4,div#stats div table tr td {
+	font-family: "nimbus-sans", sans-serif;
+	text-align: center;
+	font-size: 1.6em;
+	line-height: 1.2em;
+	font-weight: 300; }
+
+#top-offenders thead {
+	font-family: "nimbus-sans", sans-serif;
+	font-size: 1.6em;
+	line-height: 1.2em;
+	color: #ddd;
+}
+
+div#stats table {
+	margin: 0 auto 1em auto;
+	text-align: left;
+}
+
+.top-offender-pic {
+    width: 20px;
+}
+
+#stream, #search, #user-search-results {
+    border-color: #000000;
+    border-width: 1px;
+    border-style: solid;
+	border-radius: 6px;
+
+
+	margin: 0 auto 1em auto;
+	width: 60%;
+    max-height: 400px;
+    padding: 0px 10px 0px 10px;
+    overflow: hidden;
+}
+
+.pic {
+    display: inline;
+    width: 20px;
+}
+
+.tweet-pic {
+    margin-left: -30px;
+    float: left;
+}
+
+.present {
+    margin-right: -30px;
+    float: right;
+}
+
+.words {
+    padding: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.tweet {
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+
+    font-family: "Helvetica Neue",Arial,sans-serif;
+}
+
+@media (max-width: 500px) {
+    div#header h1 {
+        font-size: 2.5em;
+    }
+    div#stats h3 {
+        font-size: 1.3em;
+    }
+
+    #stream {
+        max-height:
+        145px;
+    }
+    .tweet {
+        height: 20px;
+        white-space: nowrap;
+    }
+    .tweet-text {
+        overflow: hidden;
+        text-overflow:ellipsis;
+    }
+}
+
+#search {
+    width: 200px;
+	background-color: #4795cc;
+}
+
+#search>input {
+	font-size: 0.9em;
+    outline: none;
+    border: none;
+	background-color: #4795cc;
+}
