@@ -3,7 +3,7 @@ layout: inner
 title: Repo Styleguide
 ---
 
-Your project should include the following:
+This it's a style guide for GitHub repos. Most projects should include the following:
 
 ## Documentation
 
