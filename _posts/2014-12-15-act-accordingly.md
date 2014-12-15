@@ -2,7 +2,7 @@
 layout: post
 title: Act Accordingly
 ---
-A practical philosophy book (less intellectual and more framework for decisions) by Colin Wright.
+###### **A practical philosophy book (less intellectual and more framework for decisions) by Colin Wright**.
 
 ## You Only Live Once
 
@@ -56,8 +56,7 @@ Stop doing the bad stuff and start doing more good stuff.
 
 ## Personal Relativism
 
-Everybody has a different moral compass and value system. It depends on their culture, their family,
-and their friends. Accept this and keep an open mind to everyone else's point of view.
+Everybody has a different moral compass and value system. It depends on their culture, their family, and their friends. Accept this and keep an open mind to everyone else's point of view.
 
 You can understand other people's viewpoints but still strive to improve yourself according to your
 own values.
@@ -68,8 +67,7 @@ Mastery is important.
 
 Many people have one or more crafts that they want to improve it. Tetris is a great example. It's
 easy to start, but difficult to master. To improve, you can change the rules. For example, only full
-4 line blocks disappearing can score points - otherwise points are subtracted. Playing at a higher
-difficulty level is the best way to master your craft.
+4 line blocks disappearing can score points - otherwise points are subtracted. Playing at a higher difficulty level is the best way to master your craft.
 
 **Challenge yourself and learn**.
 
@@ -77,9 +75,7 @@ difficulty level is the best way to master your craft.
 
 Provide value to yourself and to others.
 
-Providing value is a great way to grow relationships. Often times, relationships are a plus/plus for
-both parties. Increasing the value you provide to others is a terrific way to help other people and
-to improve the world.
+Providing value is a great way to grow relationships. Often times, relationships are a plus/plus for both parties. Increasing the value you provide to others is a terrific way to help other people and to improve the world.
 
 Value is also a great way to determine how practical your skills are.
 
@@ -89,31 +85,24 @@ Sustainability means creating closed loops in everything we do. Aim for a sustai
 
 You should be able to support yourself: finance, health, happiness, etc...
 
-Being self-sustaining is a great base goal. For example, money is important but shouldn't be your
-primary pursuit. Instead, aim to make enough money to sustain your lifestyle. Then start pursuing
-other goals.
+Being self-sustaining is a great base goal. For example, money is important but shouldn't be your primary pursuit. Instead, aim to make enough money to sustain your lifestyle. Then start pursuing other goals.
 
 ## The Cake
 
-Individual attributes do not make up a person. Instead, we're the sum of our actions and thoughts.
-Never pass judgement on a person based on just a handful of brief attributes.
+Individual attributes do not make up a person. Instead, we're the sum of our actions and thoughts. Never pass judgement on a person based on just a handful of brief attributes.
 
-This applies to yourself, too. Don't fixate on single attributes. It's the whole cake, not the
-individual ingredients, that you should look at.
+This applies to yourself, too. Don't fixate on single attributes. It's the whole cake, not the individual ingredients, that you should look at.
 
 ## Logos
 
-Don't identify yourself with product logos. There's no need to shop at Whole Foods to be healthy.
-Instead, just make the right decisions for your diet/exercise routines and actually act out those
-decisions.
+Don't identify yourself with product logos. There's no need to shop at Whole Foods to be healthy. Instead, just make the right decisions for your diet/exercise routines and actually act out those decisions.
 
-Eschew logos and go label-less. You'll be forced to do the hard work to build yourself, instead of
-identifying yourself with the brands you own.
+Eschew logos and go label-less. You'll be forced to do the hard work to build yourself, instead of identifying yourself with the brands you own.
 
 ## Lifspeki
 
 Lifespeki is Icelandic for "the practical philosophy by which one lives their life".
 
-It's good to have a philosophy - a framework to make decisions by. But don't just blindly follow
-someone's already established philosophy. Build your own! Continually improve it as time goes on.
-Live by the ideals and concepts that you see fit for yourself.
+It's good to have a philosophy - a framework to make decisions by. But don't just blindly follow someone's already established philosophy. Build your own! Continually improve it as time goes on.
+
+**Live by the ideals and concepts that you see fit for yourself**.
