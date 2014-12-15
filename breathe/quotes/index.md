@@ -16,7 +16,6 @@ These are the quotes I’ve read and heard that help me live, think, and learn. 
 
 &nbsp;
 
->"
 &nbsp;
 
 >"Shut up and look.”—Edward Tufte
