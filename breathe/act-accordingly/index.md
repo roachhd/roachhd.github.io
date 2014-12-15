@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: inner
 title: Life&#58; Act Accordingly
 comments: false
 ---
