@@ -23,15 +23,7 @@ These are the quotes I’ve read and heard that help me live, think, and learn. 
 
 &nbsp;
 
->"I get up. I walk. I fall down. Meanwhile, I keep dancing.”—Daniel Hillel
-
-&nbsp;
-
 >"Money is circulated. Time is spent.”—Frank Chimero
-
-&nbsp;
-
->"Writing is like driving at night in the fog. You can only see as far as your headlights, but you can make the whole trip that way.”—E.L. Doctorow
 
 &nbsp;
 
@@ -40,3 +32,9 @@ These are the quotes I’ve read and heard that help me live, think, and learn. 
 &nbsp;
 
 >"Less, but better.”—Dieter Rams
+
+&nbsp;
+
+>"I get up. I walk. I fall down. Meanwhile, I keep dancing.”—Daniel Hillel
+
+&nbsp;
