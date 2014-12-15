@@ -12,6 +12,7 @@ techniques to improve it. He's also a psychologist whose area of study is in mem
 
 # Ten Myths
 
+```
 * Memory is a thing
 * There's a secret to good memory
 * There's an easy way to memorize
@@ -22,6 +23,7 @@ techniques to improve it. He's also a psychologist whose area of study is in mem
 * A trained memory never forgets
 * Remembering too much can clutter your mind
 * People only use 10% of their mental potential
+```
 
 # What is memory?
 
@@ -414,29 +416,19 @@ powerful. It's similar to the peg system, you'll have words which act as your pe
 the weakness of the peg system - you can easily create up over 1000+ pegs with a bit of practice.
 
 Every number will have consonant sounds associated with it:
- +---+----------------------+-----------------------------+
+ 
  | # | Sound(s)             | Memory Aid                  |
- +---+----------------------+-----------------------------+
+ | - | -------------------- | --------------------------- |
  | 1 | t, th, d             | "t" has one downstroke      |
- +---+----------------------+-----------------------------+
  | 2 | n                    | two downstrokes             |
- +---+----------------------+-----------------------------+
  | 3 | m                    | three downstrokes           |
- +---+----------------------+-----------------------------+
  | 4 | r                    | last sound for "four"       |
- +---+----------------------+-----------------------------+
  | 5 | l                    | roman numeral for 50 is "L" |
- +---+----------------------+-----------------------------+
  | 6 | j, sh, ch, soft g    | reverse "j" looks like      |
- +---+----------------------+-----------------------------+
  | 7 | k, q, hard c, hard g | "k" makes two 7s            |
- +---+----------------------+-----------------------------+
  | 8 | f, v                 | script "f" resembles 8      |
- +---+----------------------+-----------------------------+
  | 9 | p, b                 | p is mirror image of 9      |
- +---+----------------------+-----------------------------+
  | 0 | z, s, soft c         | "z" for zero                |
- +---+----------------------+-----------------------------+
 
 The table above works well because all consonant sounds are used except for "w", "h", "y" (why) - so
 most words can be used. The sounds are also mutually exclusive to prevent interference.
