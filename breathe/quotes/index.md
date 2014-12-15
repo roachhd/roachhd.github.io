@@ -4,6 +4,16 @@ title:  "Quotes"
 ---
 <p style="text-align:left;">These are the things I’ve heard and read that help me work, live, and think. The things that shape my work and remind me that everything is going to be ok. And, of course, the things that make me smile. And they’re all from the pens and lips of those much smarter than I could hope to become.</p>
 
+---
+
+>"Whoever said that pleasure wasn’t useful?”—Charles Eames
+
+&nbsp;
+
+>"I get up. I walk. I fall down. Meanwhile, I keep dancing.”—Daniel Hillel
+
+&nbsp;
+
 <hr />
 <p style="text-align:left;">"Whoever said that pleasure wasn’t useful?”—<span class="caps">Charles Eames</span></p>
 
