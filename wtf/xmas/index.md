@@ -21,7 +21,7 @@
 			<!-- Top Navigation -->
 			<div class="codrops-top clearfix">
 				<a class="codrops-icon codrops-icon-prev" href="http://tes.roachhaus.com/xmas/"><span>Previous year</span></a>
-				<span class="right"><a class="codrops-icon codrops-icon-drop" href="http://katieball.me"><span>Back to Katie's site</span></a></span>
+				<span class="right"><a href="http://katieball.me"><span>Back to Katie's site</span></a></span>
 			</div>
 			<h1><span>With ❤️ Katie Ball</span></h1>
 			<canvas id="snowfall"></canvas>
