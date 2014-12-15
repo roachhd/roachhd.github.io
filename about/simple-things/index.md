@@ -24,13 +24,11 @@ title: "Simple Things I Love"
 * Waking up to a clean, uncluttered living room.
 * Laughing at my son's wacky sense of humor.
 * Screaming my head off when the Tiges scores a goal.
-* Collapsing after finishing a marathon, exhausted but proud.
 * Spending time with my mum and sister on a Saturday afternoon.
-* Letting a rich dark chocolate melt in my mouth.
+* Eating rich dark chocolate.
 * A long hot shower.
 * Listening to the sound of waves.
 * A hug when I need it.
-* Dew on the grass in the morning.
 * The way the dogs gets excited when he sees me, whether it has been 5 minutes or 5 hours.
 
 
