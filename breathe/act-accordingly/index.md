@@ -5,7 +5,7 @@ comments: false
 ---
 ### A practical philosophy book (less intellectual and more framework for decisions) by Colin Wright.
 
-#### You Only Live Once
+# You Only Live Once
 
 > You have exactly one life in which to do everything you will ever do.
 > Act accordingly.
