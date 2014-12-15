@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: inner
 title: "Simple Things In Life"
 comments: false
 ---
