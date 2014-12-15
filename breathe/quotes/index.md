@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: inner
 title:  "Quotes"
 comments: false
 share: true
