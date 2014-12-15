@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Simple Things I Love"
+title: "Simple Things In Life"
+comments: false
 ---
 
 ###### By Katie Ball
