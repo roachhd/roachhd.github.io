@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Act Accordingly
+title: Life: Act Accordingly
 ---
 ###### **A practical philosophy book (less intellectual and more framework for decisions) by Colin Wright**.
 
