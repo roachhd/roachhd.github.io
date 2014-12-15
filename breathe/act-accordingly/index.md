@@ -29,9 +29,11 @@ mean you're selfish for wanting to improve it further.
 
 Focus on what's important to you. Everyone has different priorities and tastes.
 
-# Let's Fail Until We Don't
+## Let's Fail Until We Don't
 
-Failure is just a step along the way to success.
+>Failure is just a step along the way to success.
+
+&nbsp;
 
 Be willing to pick yourself up after a failure. Keep trying until you win. It's a reliable approach
 to achieve most goals.
