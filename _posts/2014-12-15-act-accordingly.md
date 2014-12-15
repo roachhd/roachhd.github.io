@@ -4,7 +4,7 @@ title: Act Accordingly
 ---
 A practical philosophy book (less intellectual and more framework for decisions) by Colin Wright.
 
-# You Only Live Once
+### You Only Live Once
 
 > You have exactly one life in which to do everything you will ever do.
 > Act accordingly.
@@ -20,7 +20,7 @@ the current context to make the best decisions.
 The best rules will increase your level of freedom. They'll guide you instead of forcing an option
 onto you.
 
-# It's Not About Being Selfish
+###### It's Not About Being Selfish
 
 Self improvement isn't being selfish or lazy. It's not noble to work 100 hours a week if the same
 outcome can be done in 40 hours. So even if your lifestyle is more comfortable than most, it doesn't
