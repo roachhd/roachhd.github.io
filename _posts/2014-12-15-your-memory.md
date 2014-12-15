@@ -79,9 +79,11 @@ easier to retrieve it. If it's a mess, retrieval becomes hard or even impossible
 
 Measuring memory can be done via:
 
+```
 1. Recall
 2. Recognition
 3. Relearning
+```
 
 # How does it work?
 
@@ -125,11 +127,13 @@ knowledge. They remember worse in the reverse order, if they wake up and then ac
 
 The basic principles for better memory are:
 
+```
 * Meaningfulness
 * Organization
 * Association
 * Visualization
 * Attention
+```
 
 It's much easier to remember something simple/meaningful than something that is complex/meaningless.
 Remembering meaningless things is called rote memory, and techniques such as repetition is used for
@@ -162,11 +166,13 @@ we never pay attention.
 
 More principles that can be applied towards a better memory are:
 
+```
 * Repetition
 * Relaxation
 * Context
 * Interest
 * Feedback
+```
 
 Repetition alone may not be enough to remember everything, but it's a great technique to use.
 Studies show that people who relearn will remember better than others who do 0% overlearning. For
@@ -196,11 +202,13 @@ for students but is general enough to apply to most learning situations.
 
 To learn more effectively, you should:
 
+```
 * reduce interference
 * space out learning sessions
 * decide to either break up the learning material or learn it as a whole
 * recite it
 * use a study system (SQ3R is recommended)
+```
 
 Reducing interference means eliminating distractions while you're encoding new memories. You can
 also minimize the harmful effects of interference by making sure any activities between
@@ -417,8 +425,8 @@ the weakness of the peg system - you can easily create up over 1000+ pegs with a
 
 Every number will have consonant sounds associated with it:
  
- | # | Sound(s)             | Memory Aid                  |
- | - | -------------------- | --------------------------- |
+ | Number | Sound(s)             | Memory Aid                  |
+ | --- | -------------------- | --------------------------- |
  | 1 | t, th, d             | "t" has one downstroke      |
  | 2 | n                    | two downstrokes             |
  | 3 | m                    | three downstrokes           |
