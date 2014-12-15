@@ -4,8 +4,9 @@ title: Your Memory
 ---
 
 
-###### How It Works and How to Improve It
-Your Memory by Kenneth L Higbee has a balance between layman techniques and scientific research.
+######How It Works and How to Improve It
+
+The book, Your Memory by Kenneth L Higbee, has a balance between layman techniques and scientific research.
 Higbee himself is fascinated with the area of memory and follows many of the newly developed
 techniques to improve it. He's also a psychologist whose area of study is in memory.
 
@@ -413,36 +414,36 @@ powerful. It's similar to the peg system, you'll have words which act as your pe
 the weakness of the peg system - you can easily create up over 1000+ pegs with a bit of practice.
 
 Every number will have consonant sounds associated with it:
-
-    +---+----------------------+-----------------------------+
-    | # | Sound(s)             | Memory Aid                  |
-    +---+----------------------+-----------------------------+
-    | 1 | t, th, d             | "t" has one downstroke      |
-    +---+----------------------+-----------------------------+
-    | 2 | n                    | two downstrokes             |
-    +---+----------------------+-----------------------------+
-    | 3 | m                    | three downstrokes           |
-    +---+----------------------+-----------------------------+
-    | 4 | r                    | last sound for "four"       |
-    +---+----------------------+-----------------------------+
-    | 5 | l                    | roman numeral for 50 is "L" |
-    +---+----------------------+-----------------------------+
-    | 6 | j, sh, ch, soft g    | reverse "j" looks like      |
-    +---+----------------------+-----------------------------+
-    | 7 | k, q, hard c, hard g | "k" makes two 7s            |
-    +---+----------------------+-----------------------------+
-    | 8 | f, v                 | script "f" resembles 8      |
-    +---+----------------------+-----------------------------+
-    | 9 | p, b                 | p is mirror image of 9      |
-    +---+----------------------+-----------------------------+
-    | 0 | z, s, soft c         | "z" for zero                |
-    +---+----------------------+-----------------------------+
+ +---+----------------------+-----------------------------+
+ | # | Sound(s)             | Memory Aid                  |
+ +---+----------------------+-----------------------------+
+ | 1 | t, th, d             | "t" has one downstroke      |
+ +---+----------------------+-----------------------------+
+ | 2 | n                    | two downstrokes             |
+ +---+----------------------+-----------------------------+
+ | 3 | m                    | three downstrokes           |
+ +---+----------------------+-----------------------------+
+ | 4 | r                    | last sound for "four"       |
+ +---+----------------------+-----------------------------+
+ | 5 | l                    | roman numeral for 50 is "L" |
+ +---+----------------------+-----------------------------+
+ | 6 | j, sh, ch, soft g    | reverse "j" looks like      |
+ +---+----------------------+-----------------------------+
+ | 7 | k, q, hard c, hard g | "k" makes two 7s            |
+ +---+----------------------+-----------------------------+
+ | 8 | f, v                 | script "f" resembles 8      |
+ +---+----------------------+-----------------------------+
+ | 9 | p, b                 | p is mirror image of 9      |
+ +---+----------------------+-----------------------------+
+ | 0 | z, s, soft c         | "z" for zero                |
+ +---+----------------------+-----------------------------+
 
 The table above works well because all consonant sounds are used except for "w", "h", "y" (why) - so
 most words can be used. The sounds are also mutually exclusive to prevent interference.
 
 Higbee suggests using the consonant sounds as the first sound in your keywords. Sample keywords:
 
+```
 1. tie
 2. Noah
 3. ma
@@ -458,10 +459,12 @@ Higbee suggests using the consonant sounds as the first sound in your keywords. 
 13. tomb
 14. tire
 15. towel
+```
 
 The appendix has sample keywords for up to 100. Using adjectives, you can multiply your 100-word
 list into a 1000 phrase list:
 
+```
 1. wet (wet tie = 0101 or 101)
 2. new
 3. my
@@ -472,6 +475,7 @@ list into a 1000 phrase list:
 8. heavy
 9. happy
 10. dizzy
+```
 
 The phonetic system allows you to pick a word in your list without going in order. It has the added
 benefit of encoding numbers in a more meaningful way with low interference. For example, you can use
