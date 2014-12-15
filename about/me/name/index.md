@@ -14,7 +14,7 @@ The Ball surname covers most of Scotland, especially in the county of Lanarkshir
 
 The Ball family name is located in most of the United States over the decades. It is concentrated in California, Michigan, Pennsylvania, Missouri, Ohio and New York.
 
-Famous: Lucille Ball (film, TV comedian and actress), Alan Ball (film writer and director), John Ball (14th century leader of the Peasant's Revolt), Webb C. Ball (established the first rules for railroad chronometers), Edmund B. Ball (along with his brothers established the Ball Brothers Glass Manufacturing, Ball State University and Ball Memorial Hospital) and Harvey Ross Ball (designed the 'Smiley' face).  
+Famous: Lucille Ball (film, TV comedian and actress), Alan Ball (film writer and director), John Ball (14th century leader of the Peasant's Revolt), Webb C. Ball (established the first rules for railroad chronometers), Edmund B. Ball (along with his brothers established the Ball Brothers Glass Manufacturing, Ball State University and Ball Memorial Hospital) and Harvey Ross Ball (designed the 'Smiley' face 😊).
 
 [Source](http://www.familytree.com/surnames/Ball "Permalink to Ball Surname and Family History")
 
