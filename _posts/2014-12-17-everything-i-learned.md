@@ -25,5 +25,4 @@ You need to learn some and think some, And draw and paint and sing and dance.
 And play and work everyday some. Also, take a nap if your tired.
 
 #### When you go out into the world.
-You should watch out for traffic, hold hands and stick together.
-And don't forget to be aware of wonder.
+You should watch out for traffic, hold hands and stick together. And be aware of wonder.
