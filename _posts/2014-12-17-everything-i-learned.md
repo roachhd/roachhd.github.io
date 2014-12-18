@@ -7,7 +7,7 @@ title: These are the things I learned
 Most of what I really need to know about how to live, and what to do and how to be, i learned as a kid.
 Maybe adults should forget all their complicated rules and listen to themselves.
 
-**These are the things I learned**.
+#### These are the things I learned.
 
 - Share everything.
 - Play fair.
@@ -20,12 +20,12 @@ Maybe adults should forget all their complicated rules and listen to themselves.
 - Flush, then wash.
 - Warm cookies and cold milk are good for you.
 
-**Live a balanced life**.
+#### Live a balanced life.
 
 You need to learn some and think some, And draw and paint and sing and dance.
 And play and work everyday some. Also, take a nap if your tired.
 
-**When you go out into the world**.
+#### When you go out into the world.
 
 You should watch out for traffic, hold hands and stick together.
 And don't forget to be aware of wonder.
