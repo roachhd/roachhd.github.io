@@ -6,7 +6,7 @@ title: The Science Behind New Years Resolutions
 
 # The Science of New Year's Resolutions: Why 88% Fail and How to Make Them Work
 
-Wanting to change yourself and better yourself is a beautiful and inspiring thing I believe. And it turns out that's also how most other people think: **50% of all Americans for example set themselves a new year's resolution **.
+Wanting to change yourself and better yourself is a beautiful and inspiring thing I believe. And it turns out that's also how most other people think: **50% of all Americans for example set themselves a new year's resolution.**
 
 That's pretty amazing! What's not so great is that according to the researcher Richard Wiseman 88% of all those set resolutions from half of America and probably lots of other people in the world fail. **That's 156 million failed resolutions** and disappointed minds each and every year.
 
