@@ -98,7 +98,7 @@ One very comforting and important last [fact][11] is that having strong willpowe
 
 So just like your bicep has to be trained in order to grow stronger, so has the prefrontal cortex in your brain. The key is to make sure not to start lifting too heavy, as then we're bound to drop everything on the floor with our new year's resolutions.
 
-**With all this info, the only thing that's left for me to ask: Do you have any new year's resolutions? How are you planning on approaching them? I'd love to hear your thoughts on this in the comments. **
+**With all this info, the only thing that's left for me to ask: Do you have any new year's resolutions? How are you planning on approaching them? I'd love to hear your thoughts on this in the comments**.
 
 [1]: https://farm4.staticflickr.com/3010/2569536716_6b27eddd98.jpg
 [2]: http://mybrainnotes.com/brain-prefrontal-cortex.jpg
