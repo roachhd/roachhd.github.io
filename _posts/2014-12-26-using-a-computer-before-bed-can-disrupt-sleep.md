@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Fact or Fiction - Using a Computer Before Bed Can Disrupt Sleep
+title: Fact or Fiction, Computer's &amp; Sleep
 share: true
 comment: true
 published: true
 ---
 ### The CLAIM
 
-Using a Computer Before Bed Can Disrupt Sleep.
+Using a computer, smartphone out tablet before bed can disrupt sleep.
 
 ### THE FACTS
 
-In today's gadget-obsessed world, sleep experts often say that for a better night's rest, Americans should click the "off" buttons on their smartphones and tablets before tucking in for the night. Electronic devices stimulate brain activity, they say, disrupting your ability to drift off to sleep. But according to the National Sleep Foundation, more than 90 percent of Americans regularly use a computer or electronic device of some kind in the hour before bed.
+In today's gadget-obsessed world, sleep experts often say that for a better night's sleep we should click the "off" buttons on smartphones and tablets before tucking in for the night. Electronic devices stimulate brain activity, they say, disrupting your ability to drift off to sleep. But according to the American National Sleep Foundation, more than 90 percent of of people regularly use a computer or electronic device of some kind in the hour before bed.
 
 Increasingly, researchers are finding that [artificial light from some devices at night may tinker with brain chemicals that promote sleep][1]. Researchers at Rensselaer Polytechnic Institute showed that exposure to light from computer tablets significantly lowered levels of the hormone melatonin, which regulates our internal clocks and plays a role in the sleep cycle.
 
@@ -23,7 +23,7 @@ To be on the safe side, the authors of the latest study suggest limiting compute
 
 **THE BOTTOM LINE**
 
-Artificial light from computer screens at night may reduce melatonin levels.
+Artificial light from computer screens at night may reduce melatonin levels. 
 
 [2]: http://topics.nytimes.com/top/reference/timestopics/subjects/i/ipad/index.html?inline=nyt-classifier
 [3]: http://www.ncbi.nlm.nih.gov/pubmed/22850476
