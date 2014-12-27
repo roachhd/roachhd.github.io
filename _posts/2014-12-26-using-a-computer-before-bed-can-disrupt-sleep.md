@@ -21,7 +21,7 @@ Studies of college students using computers at night have suggested [similar eff
 
 To be on the safe side, the authors of the latest study suggest limiting computer use before bed, or at the very least dimming your screen as much as possible.
 
-**THE BOTTOM LINE**
+### THE BOTTOM LINE
 
 Artificial light from computer screens at night may reduce melatonin levels. 
 
