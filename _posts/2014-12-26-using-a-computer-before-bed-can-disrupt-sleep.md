@@ -7,7 +7,7 @@ published: true
 ---
 ### The CLAIM
 
-Using a computer, smartphone out tablet before bed can disrupt sleep.
+Using a computer, smartphone or tablet before bed can disrupt sleep.
 
 ### THE FACTS
 
