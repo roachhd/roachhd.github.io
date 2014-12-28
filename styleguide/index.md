@@ -1,18 +1,19 @@
 ---
-layout: page
+layout: inner
 title: Style Guides
 decryption: "List of my styleguides"
 share: false
 commented: false
 ---
 
-<ul>
+[Repo Style Guide](/repo/]
+[README Style Guide](/readme/)
+[Site Pattern Primer](/pattern-primer/)
+[Post Markdown Styles](/markdown/)
+[Writing Style Guide](/writing/)
 
-<li>[Repo Style Guide](/repo/)</li>
-<li>[README Style Guide](/readme/)</li>
-<li>[Site Pattern Primer](/pattrrn-primer/)</li>
-<li>[Post Markdown Styles](/markdown/)</li>
+---
 
-</ul>
+
 
 
