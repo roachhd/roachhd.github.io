@@ -29,24 +29,27 @@ CONFIGURATION                                   *jekyll-configuration*
 There are a few global variables that can be set to adjust the way vim handles
 Jekyll blogs. Default values for each are listed below unless noted.
 
-
+{% highlight powershell %}
                                                 *g:jekyll_post_dirs*  >
     let g:jekyll_post_dirs = ['_posts', '_source/_posts']
 A |List| containing paths to search to identify a Jekyll blog's posts
 directory. For most Jekyll blogs, this will be `_posts`. Octopress posts are
 kept in `_source/_posts`.
+{% endhighlight %}
 
-
+{% highlight powershell %}
                                                 *g:jekyll_post_extension*  >
     let g:jekyll_post_extension = '.markdown'
 The extension used when creating new posts.
+{% endhighlight %}
 
-
+{% highlight powershell %}
                                                 *g:jekyll_post_filetype*  >
     let g:jekyll_post_filetype = 'liquid'
 The |filetype| used when creating new posts.
+{% endhighlight %}
 
-
+{% highlight powershell %}
                                                 *g:jekyll_post_template*  >
     let g:jekyll_post_template =  [
       \ '---',
@@ -55,22 +58,29 @@ The |filetype| used when creating new posts.
       \ 'date: "JEKYLL_DATE"',
       \ '---',
       \ '']
+{% endhighlight %}
+
+
 A |List| containing lines to used as a template when creating new posts.
 JEKYLL_DATE and JEKYLL_TITLE will be replaced with their real values.
 
 
+{% highlight powershell %}
                                                 *g:jekyll_site_dir*  >
     let g:jekyll_site_dir = '_site'
 Directory to place generated files in when running the |:Jbuild| command.
 Relative to the root of your blog.
+{% endhighlight %}
 
-
+{% highlight powershell %}
                                                 *g:jekyll_build_command*  >
     let g:jekyll_build_command = 'jekyll --no-auto --no-server'
 Custom command to use to build your blog. By default this is unset.
+{% endhighlight %}
 
 
 ==============================================================================
+
 COMMANDS                                        *jekyll-commands*
 
 
@@ -80,35 +90,42 @@ tab. Call with a bang, (eg: :Jpost!) to create a new post. Call without a bang
 (eg: :Jpost) to edit a post. The |:Jbuild| command can be used to build a
 blog.
 
-
+{% highlight powershell %}
                                                 *jekyll-:Jpost*
 :Jpost[!]  [{name}] Create or edit the specified post. With no argument, you
                     will be prompted to select a post or enter a title.
+{% endhighlight %}
 
-
+{% highlight powershell %}
                                                 *jekyll-:JSpost*
 :JSpost[!] [{name}] Same as |:Jpost|, but opens post in a horizontal split.
+{% endhighlight %}
 
-
+{% highlight powershell %}
                                                 *jekyll-:JVpost*
 :JVpost[!] [{name}] Same as |:Jpost|, but opens post in a vertical split.
+{% endhighlight %}
 
-
+{% highlight powershell %}
                                                 *jekyll-:JTpost*
 :JTpost[!] [{name}] Same as |:Jpost|, but opens post in a tab.
+{% endhighlight %}
 
-
+{% highlight powershell %}
                                                 *jekyll-:Jbuild*
 :Jbuild [{args}]    Generate blog. This will check for the presence of a
                     Gemfile; if found `bundle exec` is used to run the
                     `jekyll` command. The blog will be built with: >
+{% endhighlight %}
 
-
+{% highlight powershell %}
             jekyll --no-auto --no-server BLOG_ROOT BLOG_ROOT/SITE_DIR <args>
 <
                     If this doesn't fit your situation, you can set a custom
                     command with |g:jekyll_build_command|. When using a custom
                     command no check for a Gemfile is performed.
+
+{% endhighlight %}
 
 ---
 
