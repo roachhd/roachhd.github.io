@@ -17,6 +17,6 @@
   ],
   "dependencies": {
     "bootstrap": "~3.2.0",
-    "fontawesome": "https://github.com/FortAwesome/Font-Awesome.git#~4.2.0"
+    "fontawesome": "4.1.0"
 }
 }
