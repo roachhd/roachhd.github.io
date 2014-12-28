@@ -3,6 +3,7 @@ layout: post
 title: Vim &amp; Jekyll Zen
 share: true
 comments: true
+published: false
 ---
 INTRODUCTION                                    *jekyll*
 
