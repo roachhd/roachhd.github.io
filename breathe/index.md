@@ -20,7 +20,7 @@ Breathe, and enjoy each moment of this life.
 <ul>
     <li><a href="/breathe/the-last-time/">The last Time - a poem for parents.</a></li>
     <li><a href="/breathe/quotes/">Quotes I like.</a></li>
-    <li><a href="/about/simple-things/">Simple Things in life</a></li>
+    <li><a href="/breathe/simple-things/">Simple Things in life</a></li>
     <li><a href="/breathe/act-accordingly/">It's your life, so Act Accordingly.</a></li>
     <li><a href="/about/me/as-a-kid/">As a kid.</a></li>
 </ul>
