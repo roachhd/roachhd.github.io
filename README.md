@@ -29,7 +29,7 @@ It's powered by [Jekyll](http://jekyllrb.com/) and I'm powered by 🍕, 🍵 & �
 [![Code Climate](https://codeclimate.com/github/roachhd/roachhd.github.io/badges/gpa.svg)](https://codeclimate.com/github/roachhd/roachhd.github.io)
 
 ###### Travis-ci Site Build Status
-![Travis-ci status](http://travis-ci.org/roachhd/notepad.svg?gh-pages=42445923)
+[![Build Status](https://travis-ci.org/roachhd/roachhd.github.io.svg?branch=master)](https://travis-ci.org/roachhd/roachhd.github.io)
 
 ###### Travis-ci GitHub Gem Status 
 [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
