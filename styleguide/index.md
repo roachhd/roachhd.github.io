@@ -10,11 +10,12 @@ commented: false
 
 I've thought quite carefully about these:
 
-* [README Style Guide](/styleguide/readme/)
-* [Site Pattern Primer](/styleguide/pattern-primer/)
 * [Post Markdown Styles](/styleguide/markdown/)
-* [Writing Style Guide](/styleguide/writing/)
+* [README Style Guide](/styleguide/readme/)
+* [Repo Organization](/styleguide/repo/)
 * [Ruby Style Guide](/styleguide/ruby/)
+* [Site Pattern Primer](/styleguide/pattern-primer/)
+* [Writing Style Guide](/styleguide/writing/)
 
 ---
 
