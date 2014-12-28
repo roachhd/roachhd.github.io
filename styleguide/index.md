@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Style Guides
-decryption: "List of my styleguides"
+decryption: "Style Guides"
 share: false
 commented: false
 ---
@@ -14,7 +14,7 @@ I've thought quite carefully about these:
 * [Site Pattern Primer](/styleguide/pattern-primer/)
 * [Post Markdown Styles](/styleguide/markdown/)
 * [Writing Style Guide](/styleguide/writing/)
-* [Ruby Style Guide](/styleguide/Ruby/)
+* [Ruby Style Guide](/styleguide/ruby/)
 
 ---
 
