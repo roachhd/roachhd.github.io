@@ -3,7 +3,7 @@ layout: inner
 title: Repo Styleguide
 ---
 
-This it's a style guide for GitHub repos. Most projects should include the following:
+This is my style guide for GitHub repos. Although it is not just suited to Github, most projects should include the following:
 
 ## Documentation
 
@@ -21,7 +21,7 @@ This it's a style guide for GitHub repos. Most projects should include the follo
 
 ### Submodule the wiki into the `notes/` directory
 
-The `notes/` a `git submodule`d version of the project's wiki. If the sections outlined in the [README README](https://github.com/infochimps-labs/style_guide/blob/master/style-guide-for-readme-files.md) become lengthy, separate them into files named as follows:
+The `notes/` a `git submoduled` version of the project's wiki. If the sections outlined in the [README style guide](/Readme/) become lengthy, separate them into files named as follows:
   - `notes/INSTALL.md`
   - `notes/design-goals.md`
   - `notes/examples.md`
