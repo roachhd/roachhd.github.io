@@ -9,7 +9,7 @@ If you are an Outlook.com user, you may be interested to know that setting up ru
 
 ### What are rules?
 
-In their simplest form, Outlook rules are actions that your email account will automatically perform based on the guidelines that you have specified. There are two main categories of rules that you can create. These are organizational rules and notification based rules. These rules will are not retroactive, which means that they will only apply to unread messages.
+In their simplest form, Outlook rules are actions that your email account will automatically perform based on the guidelines that you have specified. There are two main categories of rules that you can create. These are organizational rules and notification based rules. These rules are not retroactive, which means that they will only apply to unread messages.
 
 1. **Organize your Emails** – These rules focus on filing and organizing messages based on senders, subject keywords, and folders in your Outlook account. These are helpful for putting emails into relevant folders or categories.
 2. **Keep current** – These rules will send you notifications based on your incoming messages. These are useful if you want to get notifications of new emails to your mobile devices.
