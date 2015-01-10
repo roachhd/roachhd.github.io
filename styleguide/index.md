@@ -10,7 +10,7 @@ commented: false
 
 I've thought quite carefully about these:
 
-* [JavaScript Code Styles](/styleguides/javascript/)
+* [JavaScript Code Styles](/styleguide/javascript/)
 * [Post Markdown Styles](/styleguide/markdown/)
 * [README Style Guide](/styleguide/readme/)
 * [Repo Organization](/styleguide/repo/)
