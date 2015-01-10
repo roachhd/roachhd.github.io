@@ -13,6 +13,10 @@ These are the quotes I’ve read and heard that help me live, think, and learn. 
 
 &nbsp;
 
+>"Children should be seen, and heard, and believed."—Unknown
+
+&nbsp;
+
 >"Whoever said that pleasure wasn’t useful?”—Charles Eames
 
 &nbsp;
