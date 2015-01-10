@@ -1,8 +1,7 @@
 ---
 layout: inner
-title: JavaScript Style Guide
+title: "JavaScript Style Guide"
 ---
-
 ###### CodeStyle
 
 ## General Provisions
