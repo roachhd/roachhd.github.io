@@ -26,4 +26,4 @@ Breathe, and enjoy each moment of this life.
     <li><a href="/about/me/name/">What's in a name?</a></li>
     <li><a href="/breathe/interesting-reads/">Interesting Reads</a></li>
 </ul>
-</section/>
+</section>
