@@ -1,6 +1,6 @@
 --- 
 layout: inner
-title:  "Interesting Reads"
+title:  Interesting Reads
 comments: false
 share: true
 ---
