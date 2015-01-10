@@ -1,13 +1,12 @@
 --- 
 layout: inner
 title:  Quotes
-share: true
-comments: false
 ---
-
 These are the quotes I’ve read and heard that help me live, think, and learn. The things that shape my work and remind me that everything is going to be ok. And, of course, the things that make me smile. And they’re all from the pens and lips of those much smarter than I could hope to become.
 
 ---
+
+
 >"A little nonsense now and then is relished by the wisest men".—Roald Dahl
 
 &nbsp;
