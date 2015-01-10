@@ -1,6 +1,8 @@
 ---
 layout: inner
 title: The Last Time
+share: true
+comments: false
 ---
 From the moment you hold your baby in your arms, 
 you will never be the same.
