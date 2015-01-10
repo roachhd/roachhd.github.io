@@ -24,6 +24,6 @@ Breathe, and enjoy each moment of this life.
     <li><a href="/breathe/act-accordingly/">It's your life, so Act Accordingly.</a></li>
     <li><a href="/about/me/as-a-kid/">As a kid.</a></li>
     <li><a href="/about/me/name/">What's in a name?</a></li>
-    li><a href="/breathe/interesting-reads/">Interesting Reads</a></li>
+    <li><a href="/breathe/interesting-reads/">Interesting Reads</a></li>
 </ul>
 </section/>
