@@ -1,0 +1,133 @@
+/*------------------------------------*\
+    THEME
+\*------------------------------------*/
+/**
+ * This is your theme stylesheet where you apply your design to your card and
+ * make it your own. Delete everything below and get cracking!
+ */
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------*\
+    $CONTENTS
+\*------------------------------------*/
+/**
+ * BASE.................Basic HTML elements
+ * CARD.................Card personalisation
+ * INTRO................Avatar, name etc.
+ * ATTRIBUTION..........If you gotta have it you might as well make it look nice
+ */
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------*\
+    $BASE
+\*------------------------------------*/
+html{
+    background-color:#fafafa;
+    color:#333;
+    font-family:sans-serif;
+}
+a{
+    color:$brand-color;
+}
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------*\
+    $CARD
+\*------------------------------------*/
+.card{
+    position:relative;
+}
+.card,
+    .card:before,
+    .card:after{
+        background-color:#fff;
+        border:9px solid #f0f0f0;
+        @include vendor(border-radius, 4px);
+        @include vendor(box-shadow, 0 0 10px rgba(0,0,0,0.25));
+    }
+    .card:before,
+    .card:after{
+        content:"";
+        display:block;
+        z-index:-1;
+        position:absolute;
+        top:   -10px;
+        right: -10px;
+        bottom:-10px;
+        left:  -10px;
+        @include vendor(transform, rotate(1deg));
+    }
+    .card:after{
+        z-index:-2;
+        @include vendor(transform, rotate(-1.5deg));
+    }
+
+
+.follow-list{
+    text-align:center;
+    list-style:none;
+    margin-left:0;
+}
+
+
+
+
+
+
+
+
+/*------------------------------------*\
+    $INTRO
+\*------------------------------------*/
+    .intro__avatar{
+        @include vendor(border-radius, 100%);
+    }
+    .intro__tagline{
+        font-weight:bold;
+    }
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------*\
+    $ATTRIBUTION
+\*------------------------------------*/
+.attribution{
+    text-align:right;
+}
+    .attribution__link{
+        display:block;
+        color:#999;
+        padding-top:   ($base-spacing-unit / 2) +px;
+        padding-bottom:($base-spacing-unit / 2) +px;
+    }
