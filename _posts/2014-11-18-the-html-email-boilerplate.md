@@ -20,7 +20,6 @@ One of the problems that web developers have is getting email newsletters to loo
 While many email clients will strip out the doctype, it's good practice to add a doctype so that when we are testing we know that the HTML will render correctly. When popular clients remove the doctype from the email it will be replaced by XHTML 1.0 strict doctype, this is why we make sure we set it as XHTML 1.0 strict.
 
 
-'''
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 '''
 
@@ -30,7 +29,6 @@ While many email clients will strip out the doctype, it's good practice to add a
 The HTML boilerplate will help you in setting up your images correctly, if you have links around your images then a border will be placed around the images, adding these styles will remove all borders around your images.
 
 
-'''
     <style>
       img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} 
       a img {border:none;} 
@@ -47,14 +45,14 @@ The HTML boilerplate gives you a starting point to deal with tables, this will p
 
 
 
-''' <style>
+    <style>
     #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
     </style>
 '''
 
 
 
-'''<table cellpadding="0" cellspacing="0" border="0" id="backgroundTable">
+    <table cellpadding="0" cellspacing="0" border="0" id="backgroundTable">
         <tr>
             <td>
                  <table cellpadding="0" cellspacing="0" border="0" align="center">
@@ -77,7 +75,6 @@ The HTML boilerplate gives you a starting point to deal with tables, this will p
 Use the following snippet to reset the styles in the email clients, this will also help with font sizes on mobile devices.
 
 
-'''
     /* Client-specific Styles */
     #outlook a {padding:0;} /* Force Outlook to provide a "view in browser" menu link. */
     body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;} 
