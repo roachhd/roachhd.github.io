@@ -21,7 +21,7 @@ While many email clients will strip out the doctype, it's good practice to add a
 
 
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-'''
+
 
 
 ###Images
@@ -36,7 +36,7 @@ The HTML boilerplate will help you in setting up your images correctly, if you h
     </style>
 
     <img class="image_fix" src="full path to image" alt="Your alt text" title="Your title text" width="x" height="x" />
- '''
+ 
 
 
 ###Tables
@@ -48,7 +48,7 @@ The HTML boilerplate gives you a starting point to deal with tables, this will p
     <style>
     #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
     </style>
-'''
+
 
 
 
@@ -65,7 +65,7 @@ The HTML boilerplate gives you a starting point to deal with tables, this will p
             </td>
         </tr>
     </table>
- '''
+ 
 
 
 
@@ -85,7 +85,7 @@ Use the following snippet to reset the styles in the email clients, this will al
     p { margin: 1em 0; }
     /* End reset */
     
- '''
+ 
 
 
 
