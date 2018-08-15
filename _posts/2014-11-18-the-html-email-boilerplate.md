@@ -20,7 +20,7 @@ One of the problems that web developers have is getting email newsletters to loo
 While many email clients will strip out the doctype, it's good practice to add a doctype so that when we are testing we know that the HTML will render correctly. When popular clients remove the doctype from the email it will be replaced by XHTML 1.0 strict doctype, this is why we make sure we set it as XHTML 1.0 strict.
 
 
-'''html
+'''
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 '''
 
@@ -47,7 +47,7 @@ The HTML boilerplate gives you a starting point to deal with tables, this will p
 
 
 
-'''html
+'''
     <style>
     #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
     </style>
