@@ -5,7 +5,7 @@ permalink: /posts/:title
 #  extensions: [smart]
 kramdown:
     input: GFM
-exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
+exclude: [ Gemfile, Gemfile.lock, plugins, _assets, bower_components ]
 title:  Katie Ball
 production_url: http://katieball.me/
 description: "Thoughts, learning's, technology, tutorials, codes, projects and other things by Katie Ball."
