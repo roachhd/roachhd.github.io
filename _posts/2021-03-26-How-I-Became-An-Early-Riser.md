@@ -10,11 +10,26 @@ category: ZenHabits
 
 ### By Katie Ball
 
-I’ve found that waking early has been one of the best things I’ve done as I’ve changed my life recently, and I thought I’d share my tips. I just posted about my morning routine, and thought you might like to know how I get up at 4:30 a.m.
+I’ve found that waking early has been one of the best things I’ve done as I’ve changed my life recently, 
+and I thought I’d share my tips. 
+I just posted about my morning routine, 
+and thought you might like to know how I get up at 4:30 a.m.
 
-For many years, I was a late riser. I loved to sleep in. Then things changed, because I had to wake up between 6-6:30 a.m. to fix my kids’ lunches and get them ready for school. But last year, when I decided to train for my first marathon, I decided that I needed to start running in the mornings if I was to have any time left for my family.
+For many years, I was a late riser. 
+I loved to sleep in. 
+Then things changed, 
+because I had to wake up between 6-6:30 a.m. 
+to fix my kids’ lunches and get them ready for school. 
+But last year, when I decided to train for my first marathon,
+ I decided that I needed to start running in the mornings if I 
+was to have any time left for my family.
 
-So, I set out to make waking up early a habit. I started by getting up at 5:30 a.m., then at 5 a.m. When that became a habit, and I had to wake up at 4 a.m. or 3:30 a.m. for an early long run, it wasn’t a problem. And last November, when I decided to participate in NaNoWriMo, I decided to get up at 4 a.m. to write for at least an hour a day. Now that I completed that novel-writing goal, I don’t need to wake that early anymore, but have settled on a happy compromise of waking at 4:30 a.m. Some days, when I’m really tired (if I go to sleep late), I’ll wake at 5:00 or 5:30, but that’s still earlier than I used to wake up.
+So, I set out to make waking up early a habit. 
+I started by getting up at 5:30 a.m., 
+then at 5 a.m. When that became a habit, 
+and I had to wake up at 4 a.m. or 3:30 a.m. for an early long run, 
+it wasn’t a problem.Some days, when I’m really tired (if I go to sleep late), I’ll wake at 5:00 or 5:30, 
+but that’s still earlier than I used to wake up.
 
 Here are my tips for becoming an early riser:
 
