@@ -40,13 +40,15 @@ Start slowly, by waking just 15-30 minutes earlier than usual. Get used to this 
 **Allow yourself to sleep earlier.**
 
 You might be used to staying up late, perhaps watching TV or surfing the Internet. But if you continue this habit, while trying to get up earlier, sooner or later one is going to give. And if it is the early rising that gives, then you will crash and sleep late and have to start over. I suggest going to bed earlier, even if you don’t think you’ll sleep, and read while in bed. If you’re really tired, you just might fall asleep much sooner than you think.
-**Put your alarm clock far from you bed.* 
+**Put your alarm clock far from you bed.**
 
 If it’s right next to your bed, you’ll shut it off or hit snooze. Never hit snooze. If it’s far from your bed, you have to get up out of bed to shut it off. By then, you’re up. Now you just have to stay up.
 Go out of the bedroom as soon as you shut off the alarm. Don’t allow yourself to rationalize going back to bed. Just force yourself to go out of the room. My habit is to stumble into the bathroom and go pee. By the time I’ve done that, and flushed the toilet and washed my hands and looked at my ugly mug in the mirror, I’m awake enough to face the day.
+
 **Do not rationalize.**
 
 If you allow your brain to talk you out of getting up early, you’ll never do it. Don’t make getting back in bed an option.
+
 **Allow yourself to sleep in once in awhile.**
 
 Despite what I just said in the previous point, once in awhile it’s nice to sleep in. As long as it’s not a regular thing. I do it maybe once a week or so.
