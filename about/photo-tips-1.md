@@ -1,15 +1,28 @@
-—
+---
 layout: inner
-title: “Photo Tips”
-—
+title: Photo Tips
+comments: false
+---
 
-<section class=“content about”>
-  <h1 class=“big thin”>Photo Tips Me</h1>
+### A Collection of my personal photo tips and settings.
 
-    <img src=“http://test.roachhaus.com/cv/img/katie.png” class=“noclip” style=“display: block;margin-left: auto;margin-right: auto;” />
+# You Only Live Once
 
-  <p>
-    My photo tips here
-    Prob do some markdown and tables etc with setting in them
-  </p>
-</section>
+> You have exactly one life in which to do everything you will ever do.
+> Act accordingly.
+
+Act accordingly means different things to different people, whether that's jumping out of planes or
+reading fiction. The philosophy is meant to guide you to refocus on what's personally important.
+
+#### Freedom as a Focus
+
+photo tips here
+
+#### It's Not About Being Selfish
+
+maybe use tables
+
+
+
+
+### Live by the ideals and concepts that you see fit for yourself.
