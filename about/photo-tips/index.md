@@ -6,23 +6,53 @@ comments: false
 
 ### A Collection of my personal photo tips and settings.
 
-# You Only Live Once
+# The Power of the Moon
 
-> You have exactly one life in which to do everything you will ever do.
-> Act accordingly.
+> A quote about the moon and ask her glory.
+> Goes Here!
 
-Act accordingly means different things to different people, whether that's jumping out of planes or
-reading fiction. The philosophy is meant to guide you to refocus on what's personally important.
+#### What's going on in the shoot
 
-#### Freedom as a Focus
-
-photo tips here
-
-#### It's Not About Being Selfish
-
-maybe use tables
+brief description here 
 
 
+### Camera Settings
+
+| title | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 
-### Live by the ideals and concepts that you see fit for yourself.
+
+### Some other settings
+
+```
+Maybe camera settings or something else can go here
+
+```
+
+### Check List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
+#### Something about results or alternative
+
+put notes here
+
+---
+
+### Links 
+
+[Markdown Guide](https://www.markdownguide.org)
+
+---
+
+`This is going to be the index page for all the tips. 
+i will copy this content to top one`
+
+---
+
