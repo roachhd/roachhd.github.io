@@ -6,7 +6,7 @@ comments: false
 
 ##### A Collection of my personal photo tips and settings.
 # Blowing Bubbles
-> *don’t ever let anyone burst your >bubble!*
+> *don’t ever let anyone burst your bubble!*
 >
 
 #### What's going on in the shoot
