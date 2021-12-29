@@ -15,14 +15,14 @@ comments: false
 
 | Shoot | Description |
 | ----------- | ----------- |
-| ![Bubbles](http://katieball.me/phototips/bubbles) | Indoor, still life, studio, props |
-| ![Full Moon](http://katieball.me/phototips/full-moon) | Outdoor, night, Bright full moon at night  |
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |       
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |
+| [Bubbles](http://katieball.me/phototips/bubbles) | Indoor, still life, studio, props |
+| [Full Moon](http://katieball.me/phototips/full-moon) | Outdoor, night, Bright full moon at night  |
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |       
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |
 
 
 
@@ -63,14 +63,14 @@ to top one
 
 | Shoot | Description |
 | ----------- | ----------- |
-| ![Bubbles](http://katieball.me/phototips/bubbles) | Indoor, still life, studio, props |
-| ![Full Moon](http://katieball.me/phototips/full-moon) | Outdoor, night, Bright full moon at night  |
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |       
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |
+| [Bubbles](http://katieball.me/phototips/bubbles) | Indoor, still life, studio, props |
+| [Full Moon](http://katieball.me/phototips/full-moon) | Outdoor, night, Bright full moon at night  |
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |       
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |
 
 
 ---
@@ -83,12 +83,12 @@ to top one
 | Shoot | Description |
 | ----------- | ----------- |
 | ![Bubbles](http://katieball.me/phototips/bubbles) | Indoor, still life, studio, props |
-| ![Full Moon](http://katieball.me/phototips/full-moon) | Outdoor, night, Bright full moon at night  |
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |       
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |
-| ![shoot link](linkPath) | description |
+| [Full Moon](http://katieball.me/phototips/full-moon) | Outdoor, night, Bright full moon at night  |
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |       
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |
+| [shoot link](linkPath) | description |
 
 ---
