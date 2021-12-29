@@ -15,6 +15,7 @@ Put your camera into manual mode and get artistic with bubbles.
 |ISO |  Shutter Speed|  Aperture|
 |:--|:--|:--|
 |  800|  1/500|  F/1.4|
+
 | Setting|  Mode|
 |:--|:--|
 |  Exposure |  Manual|
