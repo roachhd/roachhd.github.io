@@ -1,57 +1,47 @@
 ---
 layout: inner
-title: Photo Tips
+title: Photo Tips Index
 comments: false
 ---
 
-### A Collection of my personal photo tips and settings.
-
-# The Power of the Moon
-
-> A quote about the moon and ask her glory.
-> Goes Here!
-
-#### What's going on in the shoot
-
-brief description here 
+### A Collection of my personal photo tips, settings and Links.
 
 
-### Camera Settings
+> You can, You should snd if you're brave enough to start, you will
+ - Stephan King
 
-| title | Description |
+
+### Shoot Settings Tip Cards
+
+| Shoot | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| ![Bubbles](http://katieball.me/phototips/bubbles) | Indoor, still life, studio, props |
+| ![Full Moon](http://katieball.me/phototips/full-moon) | Outdoor, night, Bright full moon at night  |
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |       
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |
 
 
 
-### Some other settings
+#### General Tips
 
-```
-Maybe camera settings or something else can go here
-
-```
-
-### Check List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-
-#### Something about results or alternative
-
-put notes here
+>Shoot in RAW 
 
 ---
 
-### Links 
+### Fav Links 
 
-[Markdown Guide](https://www.markdownguide.org)
+- [Joel Grimes](https://www.markdownguide.org)
+- [Albert Dros](https://www.markdownguide.org)
+
 
 ---
 
 ```
+//html
 This is going to be the 
 index page for all the tips. 
 i will copy this content 
@@ -60,49 +50,45 @@ to top one
 
 ---
 
----
 
-# Photo Tip Template 
-
-
-## Full Bright Moon
-
-##### Camera Mode: MANUAL
-
-|ISO |  SS|  F#|
-|:--|:--|:--|
-|  200|  1/500|  F/5.6|
-
-
-| Setting|  Mode|
-|:--|:--|
-|  IS|  OFF|
-|  WB|  AUTO|
-|  NOISE REDUCTION |  OFF|
-|  EXPOSURE|  MANUAL|
-|  MIRROR LOCK|  ENABLE|
-|  BRACKETS |  +/-1.5|
-
-##### Set Up
-- Tripod
-- shutter remote
-- RAW format
-- Have a full battery
-
-```
-
-Use a long zoom lens a set the moon 
-low on the horizon and close to an 
-object to create the illusion of a giant 
-moon
-
-```
-
-![Moon Tip Card](http://katieball.me/uni/assets/photo.jpeg)
-
-
+![Photo](http://katieball.me/uni/assets/photo.jpeg)
 
 
 
 ---
 
+#### Post Processing
+
+### Post Processing Workflows
+
+| Shoot | Description |
+| ----------- | ----------- |
+| ![Bubbles](http://katieball.me/phototips/bubbles) | Indoor, still life, studio, props |
+| ![Full Moon](http://katieball.me/phototips/full-moon) | Outdoor, night, Bright full moon at night  |
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |       
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |
+
+
+---
+
+
+#### In Depth
+
+### Full Shoot Workflow
+
+| Shoot | Description |
+| ----------- | ----------- |
+| ![Bubbles](http://katieball.me/phototips/bubbles) | Indoor, still life, studio, props |
+| ![Full Moon](http://katieball.me/phototips/full-moon) | Outdoor, night, Bright full moon at night  |
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |       
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |
+| ![shoot link](linkPath) | description |
+
+---
