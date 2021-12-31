@@ -7,7 +7,7 @@ comments: false
 # KB's Table of Contents
 
 • one
-• [coffee](http://katieball.me/breath/coffee)
+• [coffee](http://katieball.me/breathe/coffee)
 • [Photo Tips](http://katieball.me/phototips/)
 • etc
 ---
