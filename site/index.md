@@ -17,3 +17,18 @@ comments: false
 
 
 `made with love`
+
+---
+
+#### Categories
+
+::insert table here:: with catergories and (psge)links to further down and then seconds table for each category with links too the various pages
+
+
+---
+
+> its not the end
+
+---
+
+
