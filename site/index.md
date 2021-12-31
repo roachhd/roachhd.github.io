@@ -22,7 +22,7 @@ comments: false
 
 #### Categories
 
-::insert table here:: with catergories and (psge)links to further down and then seconds table for each category with links too the various pages
+<mark>insert table here</mark> with catergories and (psge)links to further down and then seconds table for each category with links too the various pages
 
 
 ---
