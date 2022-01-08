@@ -14,7 +14,7 @@ comments: false
 
 ### Some other settings
 
-```
+```ymal
 Maybe camera settings or something else can go here
 
 ```
@@ -59,7 +59,7 @@ put notes here
 - RAW format
 - Have a full battery
 
-```
+```ymal
 
 Use a long zoom lens a set the moon 
 low on the horizon and close to an 
