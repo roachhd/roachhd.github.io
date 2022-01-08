@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Kindred Skies
 category: General
