@@ -33,7 +33,7 @@ Put your camera into manual mode and get artistic with bubbles.
 -   Using a remote control to fire the shutter just after you've blown the bubbles.
 
 ##### Post Processing Tip
-```  
+```ymal
 Combine multiple bubble shots in Photoshop using layers and Blend modes. Up the Vibrancy levels for oomph.
 ```
 
