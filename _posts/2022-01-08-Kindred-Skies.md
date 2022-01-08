@@ -4,6 +4,7 @@ title: Kindred Skies
 category: General
 ---
 
+
 ##### Ancient Greeks and Aboriginal Australians saw constellations in common
 
 Look up on any clear night and you can see myriad stars, planets, and the Milky Way stretching across the sky. The chances are that you know some of the constellations.
