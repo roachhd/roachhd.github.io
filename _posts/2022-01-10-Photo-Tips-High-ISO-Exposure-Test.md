@@ -1,9 +1,10 @@
 // Photo Tips: High-ISO exposure test
 
 ---
-layout: inner
+layout: post
 title: Photo Skills
 sub-title: High-ISO exposure test
+category: Photo-Tips
 comments: false
 ---
 
