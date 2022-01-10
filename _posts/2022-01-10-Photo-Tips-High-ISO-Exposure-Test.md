@@ -34,4 +34,4 @@ In this example, using ISO 6,400 gives an exposure time of four seconds. So if y
 | ISO 800  | 32 sec |
 | ISO 400  | 1 min 4 sec
 | ISO 200  | 2 min 8 sec | 
-| ISO 100  | 4 min 16 sec | 
+| ISO 100  | 4 min 16 sec |
