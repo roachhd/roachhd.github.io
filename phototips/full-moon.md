@@ -1,6 +1,7 @@
 ---
 layout: inner
 title: Photo Tips
+category: Photo-Tips
 comments: false
 ---
 
