@@ -40,7 +40,7 @@ comments: false
 
 ---
 
-```html
+```yaml
 This is going to be the 
 index page for all the tips. 
 i will copy this content 
