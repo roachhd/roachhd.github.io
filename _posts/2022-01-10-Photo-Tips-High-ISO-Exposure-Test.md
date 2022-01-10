@@ -1,5 +1,3 @@
-// Photo Tips: High-ISO exposure test
-
 ---
 layout: post
 title: Photo Skills
