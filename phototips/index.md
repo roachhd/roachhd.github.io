@@ -28,7 +28,15 @@ comments: false
 
 #### General Tips
 
+| Tip | Description |
+| ----------- | ----------- |
+| [Exposure Test](http://katieball.me/phototips/exposure-test) | Use a high ISO to quickly test long Exposure Test shots |
+| [PhotoPills Tables](http://katieball.me/phototips/photopills-charts) | Hypergocal distance table and DoF table |
+
+
 >Shoot in RAW 
+
+
 
 ---
 
