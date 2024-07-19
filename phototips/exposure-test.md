@@ -6,7 +6,7 @@ category: Photo-Tips
 comments: false
 ---
 
-#### Long Exposures optimal shutter test using high ISO  
+#### Find optimal shutter speed for long exposurs using a high ISO  
 If you’re shooting in a particularly dark area using a small aperture and a low ISO, the exposure may last for multiple seconds, or even minutes. Doing test shots to work out the optimum exposure to use can be a frustrating experience if you have to wait such a long time to check each shot, but there is a solution: set a higher ISO for the test shots so that you can use shorter exposure times. You can then work backwards to calculate the length of exposure for your optimum ISO setting.
 
 
