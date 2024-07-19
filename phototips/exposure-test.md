@@ -1,7 +1,7 @@
 ---
 layout: inner
-title: Photo Skills
-sub-title: High-ISO exposure test
+title: High-ISO Exposure Test
+sub-title: 
 category: Photo-Tips
 comments: false
 ---
