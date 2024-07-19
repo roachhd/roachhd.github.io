@@ -1,4 +1,4 @@
---
+---
 layout: inner
 title: PhotoPills Charts
 comments: false
