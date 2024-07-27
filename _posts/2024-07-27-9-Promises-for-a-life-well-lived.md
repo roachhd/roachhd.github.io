@@ -5,6 +5,7 @@ share: true
 comments: true
 category: General
 —
+
 ### The Promises You Make to Yourself
 
 John Wooden was the legendary head coach for the UCLA Bruins men’s basketball team from 1948 to 1975, coaching the team to a historic 10 national championships over a 12 year span.
