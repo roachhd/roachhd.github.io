@@ -11,13 +11,13 @@ He believed that the promises you make to yourself must represent ironclad contr
 
 ### These 9 promises create the foundation for happiness and success...
 
-1. **I promise to talk health, happiness, and prosperity as often as possible.**
+Promise 1. **I promise to talk health, happiness, and prosperity as often as possible.**
 
 Your thoughts and language shape your reality. Choose them wisely.
 
 
 
-2. **I promise to make all my friends know there is something in them that is special and that I value.**
+Promise 2. **I promise to make all my friends know there is something in them that is special and that I value.**
 
 Unexpressed Love is love you feel that you haven’t expressed to those you feel it for. One of my fears is dying with too much of it. When you think something nice about someone, tell them.
 
@@ -25,7 +25,7 @@ It’s a shame that we wait until a person’s funeral to say all of the nice th
 
 Every single day, reach out to one person and tell them something you love, appreciate, or respect about them.
 
-3. **I promise to think only of the best, to work only for the best, and to expect only the best in myself and others.**
+Promise 3. **I promise to think only of the best, to work only for the best, and to expect only the best in myself and others.**
 
 There is scientific evidence to prove that expectations can create reality.
 
@@ -37,7 +37,7 @@ Those who have high expectations are more likely to internalize these expectatio
 
 Establish excellence as your expectation and you will build that reality.
 
-4. **I promise to be just as enthusiastic about the success of others as I am about my own.**
+Promise 4. **I promise to be just as enthusiastic about the success of others as I am about my own.**
 
 Want to get ahead in life? Start genuinely rooting for others to succeed. Adopt a positive sum mentality—when one of us wins, we all win.
 
@@ -47,7 +47,7 @@ And relatedly, be diligent in removing the people from your life who don’t che
 
 > “Pay close attention to people who don’t clap when you win.” - Leonardo DiCaprio
 
-5. **I promise to be so strong that nothing can disturb my peace of mind.**
+Promise 5. **I promise to be so strong that nothing can disturb my peace of mind.**
 
 There’s a beautiful quote I love:
 
@@ -57,7 +57,7 @@ Something I’ve come to believe: The things you want most in life will come to 
 
 Mend your internal garden and the butterflies will come.
 
-6. **I promise to forget the mistakes of the past and press on to greater achievements in the future.**
+Promise 6. **I promise to forget the mistakes of the past and press on to greater achievements in the future.**
 
 We tend to romanticize the road not taken: The decisions we could have made differently, paths we could have walked, people we could have treated differently.
 
@@ -71,7 +71,7 @@ Visualisation Credit: WaitButWhy
 
 If you spend too much time focusing on “what ifs” behind you (black), you’ll lose sight of the immense density of opportunity before you (green).
 
-7. **I promise to wear a cheerful appearance at all times and give every person I meet a smile.**
+Promise 7. **I promise to wear a cheerful appearance at all times and give every person I meet a smile.**
 
 When you open up to the world, the world will open up to you.
 
@@ -81,13 +81,13 @@ Be present in every conversation with everyone you meet. You never know what you
 
 > “There are no strangers here; Only friends you haven’t yet met.” - William Butler Yeats
 
-8. **I promise to give so much time to improving myself that I have no time to criticize others.**
+Promise 8. **I promise to give so much time to improving myself that I have no time to criticize others.**
 
 Your entire life will change the moment you stop worrying about what others are doing and start focusing on what you’re doing.
 
 The time you spend comparing yourself to others is much better spent investing in yourself. The only comparison worth making is to you from yesterday.
 
-9. **I promise to be too large for worry, too noble for anger, too strong for fear, and too happy to permit trouble to press on me.**
+Promise 9. **I promise to be too large for worry, too noble for anger, too strong for fear, and too happy to permit trouble to press on me.**
 
 > “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances.” - Viktor Frankl
 
