@@ -1,10 +1,10 @@
-—
+——-
 layout: post
 title: 9 Promises For A Life Well Lived
 share: true
 comments: true
 category: General
-—
+——-
 
 ### The Promises You Make to Yourself
 
